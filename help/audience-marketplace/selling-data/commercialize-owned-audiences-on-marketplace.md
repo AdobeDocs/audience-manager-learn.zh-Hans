@@ -1,5 +1,5 @@
 ---
-title: 在Marketplace上商业化拥有的受众
+title: 在Marketplace上将拥有的受众商业化
 description: 在本视频中，您将了解如何将数据设置为Audience Marketplace上的私有或公共数据馈送，使您成为第二方或第三方数据的数据提供商。
 feature: Audience Marketplace
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# 在Marketplace上商业化拥有的受众
+# 在Marketplace上将拥有的受众商业化
 
 在本视频中，了解如何在Audience Marketplace上将您的数据设置为私有或公共数据馈送，使您成为第二方或第三方数据的数据提供商。
 

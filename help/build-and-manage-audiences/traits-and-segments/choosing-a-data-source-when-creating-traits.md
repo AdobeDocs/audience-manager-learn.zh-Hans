@@ -1,6 +1,6 @@
 ---
 title: 创建特征时选择数据源
-description: 创建特征时需要填写的重要字段之一是“数据源”字段。 获取有关为基于规则的特征和载入的特征选择正确数据源的提示。
+description: 创建特征时需要填写的重要字段之一是Data Source字段。 获取有关为基于规则的特征和载入的特征选择正确数据源的提示。
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 创建特征时选择数据源
 
-创建特征时需要填写的重要字段之一是 [!UICONTROL Data Source] 字段。 获取有关为基于规则的特征和载入的特征选择正确数据源的提示。
+创建特征时要填写的重要字段之一是[!UICONTROL Data Source]字段。 获取有关为基于规则的特征和载入的特征选择正确数据源的提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)

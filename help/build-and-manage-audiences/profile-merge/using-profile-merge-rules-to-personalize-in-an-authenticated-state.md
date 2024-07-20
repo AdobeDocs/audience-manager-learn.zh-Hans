@@ -1,6 +1,6 @@
 ---
 title: 使用配置文件合并规则在验证状态下进行个性化
-description: 通过使用这些配置文件合并规则设置，为登录客户提供个性化体验。
+description: 通过使用这些配置文件合并规则设置，为登录客户提供个性化的体验。
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!UICONTROL Profile Merge Rules] 在验证状态下进行个性化
+# 使用[!UICONTROL Profile Merge Rules]在验证状态下进行个性化
 
-通过使用以下各项为登录的客户提供个性化体验 [!UICONTROL Profile Merge Rule] 设置。
+使用这些[!UICONTROL Profile Merge Rule]设置为登录的客户提供个性化体验。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

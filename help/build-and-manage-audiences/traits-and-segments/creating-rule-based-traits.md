@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 创建基于规则的特征
 
-了解如何使用 [!UICONTROL Trait Builder] 在Audience ManagerUI中创建基于规则的特征，以便您将实时活动捕获到Audience Manager配置文件中。
+了解如何在Audience ManagerUI中使用[!UICONTROL Trait Builder]创建基于规则的特征，从而使您能够将实时活动捕获到Audience Manager配置文件中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)

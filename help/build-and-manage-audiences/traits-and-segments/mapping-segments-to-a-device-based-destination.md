@@ -1,6 +1,6 @@
 ---
 title: 将区段映射到基于设备的目标
-description: 了解如何将区段映射到基于设备的目标，也称为_server-to-server_目标。 要将受众区段发送到DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。
+description: 了解如何将区段映射到基于设备的目标（也称为_server-to-server_目标）。 要将受众区段发送到DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 将区段映射到基于设备的目标
 
-要将受众区段发送到DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。 本视频介绍如何将区段映射到基于设备的目标，也称为 _服务器到服务器_ 目标。
+要将受众区段发送到DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。 此视频介绍如何将区段映射到基于设备的目标，也称为&#x200B;_服务器到服务器_&#x200B;目标。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)

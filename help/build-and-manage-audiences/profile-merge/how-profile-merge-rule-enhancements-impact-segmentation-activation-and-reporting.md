@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 如何 [!UICONTROL Profile Merge Rule] 增强功能会影响分段、激活和报告
+# [!UICONTROL Profile Merge Rule]增强功能对分段、激活和报表有何影响
 
-了解如何 [!UICONTROL Profile Merge Rule] 增强功能将影响 [!UICONTROL Total Trait] 和 [!UICONTROL Segment Populations] 在Audience Manager中。
+了解[!UICONTROL Profile Merge Rule]增强功能将如何影响Audience Manager中的[!UICONTROL Total Trait]和[!UICONTROL Segment Populations]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)

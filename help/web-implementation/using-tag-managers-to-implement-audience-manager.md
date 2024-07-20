@@ -1,5 +1,5 @@
 ---
-title: 使用标记管理器实施Audience Manager
+title: 使用标签管理器实施Audience Manager
 description: 了解在使用标签管理解决方案时实施Adobe Audience Manager的基础知识。
 feature: Implementation Basics
 topics: null
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# 使用标记管理器实施Audience Manager
+# 使用标签管理器实施Audience Manager
 
 在本视频中，了解在使用标签管理解决方案时实施Adobe Audience Manager的基础知识。
 

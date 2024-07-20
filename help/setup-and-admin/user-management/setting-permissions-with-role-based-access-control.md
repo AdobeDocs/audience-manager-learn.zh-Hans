@@ -1,6 +1,6 @@
 ---
 title: 使用基于角色的访问控制设置权限
-description: 了解Adobe Audience Manager中基于角色的访问控制，以及如何管理组级别的权限。 了解如何控制谁可以查看和使用资产（包括特征、区段、目标和模型）。 了解如何设置权限组并将用户添加到权限组。
+description: 了解Adobe Audience Manager中基于角色的访问控制以及如何管理组级别的权限。 了解如何控制谁有权查看和使用资产（包括特征、区段、目标和模型）。 了解如何设置权限组并将用户添加到权限组。
 feature: Administration
 topics: null
 activity: setup

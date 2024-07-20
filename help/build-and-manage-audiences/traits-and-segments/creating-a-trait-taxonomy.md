@@ -1,6 +1,6 @@
 ---
 title: 创建特征分类
-description: 了解有关创建文件夹结构的提示，这些文件夹结构包含您在Audience Manager中的特征。
+description: 了解有关创建文件夹结构的提示，这些文件夹结构在Audience Manager中包含您的特征。
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 创建特征分类
 
-了解有关创建文件夹结构的提示，这些文件夹结构包含您在Audience Manager中的特征。
+了解有关创建文件夹结构的提示，这些文件夹结构在Audience Manager中包含您的特征。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 创建区段时选择数据源
-description: 了解在Audience Manager中创建新区段时关于选择正确数据源的一些提示。
+description: 了解在Audience Manager中创建新区段时如何选择正确的数据源的一些提示。
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 创建区段时选择数据源
 
-了解在Audience Manager中创建新区段时关于选择正确数据源的一些提示。
+了解在Audience Manager中创建新区段时如何选择正确的数据源的一些提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)

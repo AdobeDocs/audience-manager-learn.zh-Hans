@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 创建和使用简单 [!UICONTROL Profile Merge Rules]
+# 创建并使用简单的[!UICONTROL Profile Merge Rules]
 
-了解 [!UICONTROL Profile Merge Rules] 以及如何将它们分配给区段。 了解默认值 [!UICONTROL Current Device] 配置文件以及何时可以和应该使用它。
+了解[!UICONTROL Profile Merge Rules]以及如何将其分配给区段。 了解默认[!UICONTROL Current Device]配置文件以及何时可以和应该使用它。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)

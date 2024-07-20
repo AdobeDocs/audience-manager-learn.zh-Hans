@@ -13,54 +13,54 @@ level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
 
 # 在向SPA发送数据时，在AAM页面上使用最佳实践 {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
 
-本文档介绍了将数据从单页应用程序(SPA)发送到Adobe Audience Manager (AAM)的几个最佳实践。 本文重点介绍如何使用 [!UICONTROL Experience Platform tags]，推荐的实施方法。
+本文档介绍了将数据从单页应用程序(SPA)发送到Adobe Audience Manager (AAM)的几种最佳实践。 本文重点介绍如何使用[!UICONTROL Experience Platform tags]（推荐的实施方法）。
 
 ## 初始注释
 
 * 以下项目将假设您使用Platform标记在您的网站上实施。 如果您未使用Platform标记，则这些注意事项仍然存在，但您需要根据实施方法调整它们。
-* 所有SPA都不相同，因此您可能需要调整以下某些项目以最好地满足您的要求，但Adobe希望与您分享一些在将数据从SPA页面发送到Audience Manager时需要考虑的最佳实践。
+* 所有SPA各不相同，因此您可能需要调整下面的一些项目以最好地满足您的要求，但Adobe希望与您分享一些在将数据从SPA页面发送到Audience Manager时需要考虑的最佳实践。
 
 ## 在Experience Platform标记（以前称为Launch）中使用SPA和AAM的简单图表{#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
 
-![tags中的aam spa](assets/spa_for_aam_in_launch.png)
+tags中的aam的![spa](assets/spa_for_aam_in_launch.png)
 
 >[!NOTE]
->如前所述，这是一个简化的图表，说明了如何使用Platform标记在Adobe Audience Manager实施(不包括Adobe Analytics)中处理SPA页面。 正如您所看到的，这是相当直截了当的，主要决定是如何将视图更改（或操作）传达给Platform标签。
+>如前所述，这是一个简化的图表，说明了如何在Adobe Audience Manager实施(不包括Adobe Analytics)中使用Platform标记处理SPA页面。 如您所见，此过程相当直截了当，其中最重要的决定是如何将视图更改（或操作）传达给Platform标签。
 
 ## 从SPA页面触发标记 {#triggering-launch-from-the-spa-page}
 
-在Platform标记中触发规则(并因此将数据发送到Audience Manager)的两种更常见方法是：
+在Platform标签中，触发规则(并因此将数据发送到Audience Manager)的两种更常见方法是：
 
-* 设置JavaScript自定义事件（请参阅示例） [此处](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) 使用Adobe Analytics)
-* 使用 [!UICONTROL Direct Call Rule]
+* 设置JavaScript自定义事件(请参阅示例[此处](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)使用Adobe Analytics)
+* 使用[!UICONTROL Direct Call Rule]
 
-在此Audience Manager示例中，您使用 [!UICONTROL Direct Call rule] ，以触发进入Audience Manager的点击。 正如您将在下一节中所看到的，通过设置 [!UICONTROL Data Layer] 到新值，以便被 [!UICONTROL Data Element] 在Platform标记中。
+在此Audience Manager示例中，您使用Platform标记中的[!UICONTROL Direct Call rule]来触发将进入Audience Manager的点击。 正如您将在下一部分中所看到的，通过将[!UICONTROL Data Layer]设置为新值，以便[!UICONTROL Data Element]能够在Platform标记中拾取该值，它将变得有用。
 
 ## 演示页面 {#demo-page}
 
-下面是一个小页面，演示如何更改数据层中的值并将其发送到Audience Manager中，就像在SPA页面上执行操作一样。 可以对此功能进行建模，以便进行更详细的必要更改。 您可以找到此演示页面 [此处](https://aam.enablementadobe.com/SPA-Launch.html).
+下面是一个小页面，演示了如何更改数据层中的值并将其发送到Audience Manager中，就像在SPA页面上一样。 此功能可以建模，以便进行更复杂的必要更改。 您可以在[此处](https://aam.enablementadobe.com/SPA-Launch.html)找到此演示页面。
 
 ## 设置数据层 {#setting-the-data-layer}
 
-如前所述，当在页面上加载新内容或在网站上执行操作时，需要在页面头动态设置数据层，然后才能调用和运行Platform标记 [!UICONTROL rules]，以便Platform标记能够从数据层中获取新值并将它们推送到Audience Manager中。
+如前所述，当在页面上加载新内容或在网站上执行操作时，需要在页面头动态设置数据层，之后调用Platform标记并运行[!UICONTROL rules]，以便Platform标记能够从数据层中获取新值并将它们推送到Audience Manager中。
 
-如果您转到上面列出的演示站点并查看页面源，您将看到：
+如果您转到上面列出的演示网站并查看页面源，您将会看到：
 
-* 数据层位于页面顶部，在调用Platform标记之前
-* 模拟SPA链接中的JavaScript会更改 [!UICONTROL Data Layer]，然后调用Platform标记( `_satellite.track()` 调用)。 如果您使用的是JavaScript自定义事件，而不是 [!UICONTROL Direct Call Rule]，教训是一样的。 首先更改 [!DNL data layer]，然后调用Platform标记。
+* 在调用Platform标记之前，数据层位于页面顶部
+* 模拟SPA链接中的JavaScript更改[!UICONTROL Data Layer]，然后调用Platform标记（`_satellite.track()`调用）。 如果您使用JavaScript自定义事件而不是此[!UICONTROL Direct Call Rule]，则课程相同。 首先更改[!DNL data layer]，然后调用Platform标记。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## 其他资源 {#additional-resources}
 
-* [Adobe论坛上的SPA讨论](https://forums.adobe.com/thread/2451022)
+* Adobe论坛上的[SPA讨论](https://forums.adobe.com/thread/2451022)
 * [参考架构站点，该站点说明如何在Platform标记中实施SPA](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
 * [在Adobe Analytics中跟踪SPA时使用最佳实践](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
-* [用于本文的演示站点](https://aam.enablementadobe.com/SPA-Launch.html)
+* [演示站点用于此文章](https://aam.enablementadobe.com/SPA-Launch.html)

@@ -1,6 +1,6 @@
 ---
 title: 选择正确的配置文件合并规则
-description: 在此视频中，您会发现配置文件合并规则的三个最常见用例，以及这些用例对营销工作的帮助。
+description: 在此视频中，您会发现用户档案合并规则的三个最常见用例，以及这些用例如何帮助您进行营销活动。
 feature: Profile Merge
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 选择正确的 [!UICONTROL Profile Merge Rule]
+# 选择正确的[!UICONTROL Profile Merge Rule]
 
-在本视频中，了解三个最常见的用例 [!UICONTROL Profile Merge Rules]，以及它们如何帮助您完成营销工作。
+在此视频中，您会发现[!UICONTROL Profile Merge Rules]的三个最常见用例，以及这些用例如何帮助您进行营销活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)

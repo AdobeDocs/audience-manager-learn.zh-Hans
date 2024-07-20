@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 配置 [!UICONTROL Profile Merge Rules] （适用于基于人员的目标）
+# 为基于人员的目标配置[!UICONTROL Profile Merge Rules]
 
-在本视频中，了解如何设置 [!UICONTROL Profile Merge Rule] 用于基于人员的目标，包括何时使用全新的跨设备选项。
+在本视频中，了解如何设置用于基于人员的目标的[!UICONTROL Profile Merge Rule]，包括何时使用全新的跨设备选项。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!UICONTROL Profile Merge Rules] 用于设备扩展和增加范围
+# 使用[!UICONTROL Profile Merge Rules]扩展设备并扩大访问范围
 
-使用 [!UICONTROL Profile Merge Rules] 将覆盖面扩展到用户的所有设备，以便向人而不是设备进行营销。
+使用[!UICONTROL Profile Merge Rules]将覆盖范围扩展到用户的所有设备，以便您可以向人员而不是设备进行营销。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

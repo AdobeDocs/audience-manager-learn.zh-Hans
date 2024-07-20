@@ -12,16 +12,16 @@ level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
 source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge]  — 视频和教程
+# [!UICONTROL Profile Merge] — 视频和教程
 
 查看有关配置文件合并功能（包括配置文件合并规则）的视频和教程。 控制用于分段的数据集，并跨多个设备准确地定位人员。
 
-* [配置文件合并规则概览](overview-of-profile-merge-rules.md)
+* [配置文件合并规则概述](overview-of-profile-merge-rules.md)
 * [配置文件合并规则示例和用例](profile-merge-rule-examples-and-use-cases.md)
 * [配置文件合并规则增强功能概述](overview-of-profile-merge-rule-enhancements.md)
 * [创建和使用简单配置文件合并规则](creating-and-using-simple-profile-merge-rules.md)
@@ -32,4 +32,4 @@ ht-degree: 0%
 * [解释受众身份报表](interpret-audience-identity-reporting.md)
 * [了解Audience Manager中的跨设备量度](understanding-cross-device-metrics-in-audience-manager.md)
 
-这些视频可以与 [配置文件合并规则文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+这些视频可以与[配置文件合并规则文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)结合使用

@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 创建和配置 [!UICONTROL People-based Destinations]
+# 创建和配置[!UICONTROL People-based Destinations]
 
-此视频首先介绍创建基于人员的目标的先决条件的相关信息，然后还会向您说明如何配置集成帐户(指向合作伙伴的链接，例如 [!DNL Facebook])。 然后，它将引导您了解目标本身的产品内设置。
+此视频首先介绍创建基于人员的目标的先决条件的相关信息，然后还会向您说明如何配置集成帐户（指向合作伙伴的链接，如[!DNL Facebook]）。 然后，它将引导您了解目标本身的产品内设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

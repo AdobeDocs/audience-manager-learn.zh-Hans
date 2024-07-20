@@ -1,6 +1,6 @@
 ---
 title: 了解特征图中的数字
-description: 在特征信息屏幕中，获取一些关于了解报告的特质数字的提示。
+description: 获取一些提示，了解如何理解特征信息屏幕中报告的特征数字。
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 了解特征图中的数字
 
-在特征信息屏幕中，获取一些关于了解报告的特质数字的提示。
+获取一些提示，了解如何理解特征信息屏幕中报告的特征数字。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 将数据使用情况批量上传到Audience Marketplace
-description: 在Audience Marketplace中报告第二方和第三方数据使用情况时，您可能拥有足够的条目以使您不想手动执行此操作。 在本视频中，您将了解如何使用数据使用情况报告批量上传工具，以便能够轻松报告数据使用情况，即使您有许多项目要更新。
+description: 在Audience Marketplace中报告第二方和第三方数据使用情况时，您可能拥有足够的条目以使您不希望手动执行此操作。 在本视频中，您将了解如何使用数据使用情况报告批量上传工具，以便能够轻松报告数据使用情况，即使您有许多项目要更新。
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -13,18 +13,18 @@ level: Intermediate
 exl-id: ad725f78-1730-4f42-b185-f868120c7b50
 source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# 将数据使用情况批量上传到 [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
+# 将数据使用情况批量上载到[!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
 
-当您在中报告您的第二方和第三方数据使用情况时 [!UICONTROL Audience Marketplace]，则可能有足够多的条目以使您不想手动执行此操作。 在本视频中，了解如何使用数据使用情况报告批量上传工具。 通过此工具，您可以轻松报告数据使用情况，即使您有许多要更新的项目也是如此。
+当您在[!UICONTROL Audience Marketplace]中报告第二方和第三方数据使用情况时，您可能有足够的条目以使您不想手动执行此操作。 在本视频中，了解如何使用数据使用情况报告批量上传工具。 通过此工具，您可以轻松报告数据使用情况，即使您有许多要更新的项目也是如此。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
-除了使用此批量上传工具简化并节省报告数据使用情况的时间外，客户还可以从以下来源购买第二方或第三方数据 [!UICONTROL Audience Marketplace] 从改进的成本归因政策中受益。 此新策略根据基于规则的区段中特征的独特用户计数将数据提供商的成本归因到数据提供商身上，从而提高透明度和公平使用计费。
-有关计费算法的更多详细信息，请参阅 [CPM数据馈送的成本归因](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) 在产品文档中。
+除了使用此批量上传工具来简化和节省报告数据使用情况的时间外，从[!UICONTROL Audience Marketplace]购买第二方或第三方数据的客户还可以从改进的成本归因策略中获益。 此新策略根据基于规则的区段中特征的独特用户计数来确定数据提供商的成本，从而提高透明度和公平使用计费。
+有关计费算法的更多详细信息，请参阅产品文档中的[CPM数据馈送的成本归因](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html)。
 
-有关报告CPM使用的更多信息，请参阅 [如何报告CPM使用情况](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) 在产品文档中。
+有关报告CPM使用情况的详细信息，请参阅产品文档中的[如何报告CPM使用情况](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html)。

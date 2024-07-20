@@ -1,6 +1,6 @@
 ---
 title: 摄取基于人员的目标的哈希PII
-description: 在本视频中，了解如何格式化基于文件的ID同步，以将您的客户ID (CRM ID)与经过哈希处理的电子邮件地址挂接在一起。
+description: 在本视频中，了解如何格式化基于文件的ID同步，以将您的客户ID (CRM ID)与经过哈希处理的电子邮件地址关联在一起。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 摄取基于人员的目标的哈希PII
 
-在本视频中，了解如何格式化基于文件的ID同步，以将您的客户ID (CRM ID)与经过哈希处理的电子邮件地址挂接在一起。 这样，您就可以将经过哈希处理的电子邮件地址发送到基于人员的目标，例如 [!DNL Facebook].
+在本视频中，了解如何格式化基于文件的ID同步，以将您的客户ID (CRM ID)与经过哈希处理的电子邮件地址关联在一起。 这将允许您向基于人员的目标（如[!DNL Facebook]）发送经过哈希处理的电子邮件地址。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

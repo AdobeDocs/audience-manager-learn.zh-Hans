@@ -1,6 +1,6 @@
 ---
 title: 实用的区段定义和创建
-description: 获取定义区段的演练过程，然后按您需要创建区段的特征或信号划分区段。
+description: 获取定义区段的演练过程，然后按您需要创建区段的特征或信号划分它们。
 feature: Segments
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 实用的区段定义和创建
 
-本视频向您介绍定义区段，然后按创建区段所需的特征/信号对其细分的过程。
+此视频将指导您完成定义区段，然后按您需要创建这些区段的特征/信号划分这些区段的过程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)

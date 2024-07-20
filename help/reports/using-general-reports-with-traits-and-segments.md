@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 将常规报表用于特征和区段
 
-在本视频中，了解如何使用Audience Manager中的常规报表获取特征和区段的数据。
+在此视频中，了解如何在Audience Manager中使用常规报表获取特征和区段的数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 使用BAAAM创建和管理区段
-description: 使用Audience Manager中的BAAAM工具批量创建和管理区段，将它们放在文件夹中，向区段规则添加特征，将它们映射到目标等。
+description: 在Audience Manager中使用BAAAM工具批量创建和管理区段，将它们放入文件夹中，向区段规则添加特征，以及将它们映射到目标等。
 feature: baaam
 topics: null
 audience: marketer
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # 使用BAAAM创建和管理区段
 
-使用Audience Manager中的BAAAM工具批量创建和管理区段，将它们放在文件夹中，向区段规则添加特征，将它们映射到目标等。
+在Audience Manager中使用BAAAM工具批量创建和管理区段，将它们放入文件夹中，向区段规则添加特征，以及将它们映射到目标等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39148/?quality=12&learn=on)

@@ -18,11 +18,11 @@ ht-degree: 0%
 
 # Audience Manager教程
 
-欢迎访问Audience Manager教程网站。 使用这些教程以及 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 将让您更好地了解如何使用Adobe Audience Manager通过Adobe同类最佳功能，在任意渠道或设备上创建和激活受众 [!DNL data management platform].
+欢迎访问Audience Manager教程网站。 使用这些教程和[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)将使您更好地了解如何使用Adobe Audience Manager通过Adobe同类最佳的[!DNL data management platform]在任意渠道或设备上创建和激活受众。
 
-* **员工精选** 突出显示我们喜爱的一些内容
-* 在中按主题和子主题浏览内容 **左侧导航**
-* 使用 **搜索** 如果您知道自己要查找的内容，请使用页面顶部的字段
+* **员工精选**&#x200B;重点介绍我们喜爱的一些内容
+* 在&#x200B;**左侧导航**&#x200B;中按主题和子主题浏览内容
+* 如果您知道要查找的内容，请使用页面顶部的&#x200B;**搜索**&#x200B;字段
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -60,7 +60,7 @@ ht-degree: 0%
     </a>
     </div>
     <p>
-    <em>本视频介绍了Audience Manager与Real-time CDP之间在区段和区段创建方面的区别。</em>
+    <em>本视频介绍了Audience Manager与Real-time CDP之间在区段和区段创建方面的差异。</em>
     <p>
   </td>
   <td>
@@ -73,7 +73,7 @@ ht-degree: 0%
     </a>
     </div>
     <p>
-    <em>在本视频中，我们将介绍Audience Manager界面中的预测受众配置。</em>
+    <em>在本视频中，我们将介绍Audience Manager界面中的“预测受众”配置。</em>
     <p>
   </td>
 </tr>
