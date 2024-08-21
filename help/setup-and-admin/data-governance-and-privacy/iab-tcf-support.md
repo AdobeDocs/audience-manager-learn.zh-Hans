@@ -1,25 +1,22 @@
 ---
-title: IAB TCF 2.0支持
+title: IAB TCF 2.2支持
 description: 了解IAB TCF的Audience Manager插件，以及它如何与Adobe的选择加入对象和您的同意管理提供程序(CMP)配合工作。
 feature: Data Governance & Privacy
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 thumbnail: 26434.jpg
 kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
 workflow-type: tm+mt
 source-wordcount: '1059'
 ht-degree: 0%
 
 ---
 
-# Audience Manager中的IAB TCF 2.0支持 {#iab-tcf-support-in-audience-manager}
+# Audience Manager中的IAB TCF 2.2支持 {#iab-tcf-support-in-audience-manager}
 
-Adobe通过选择加入功能和IAB透明度与同意框架2.0 (TCF 2.0)支持的Audience Manager插件，为您提供用于管理和传达用户所做的隐私选择的方法。 本文与文档结合使用，可帮助您了解IAB TCF的Audience Manager插件，以及它如何与Adobe的选择加入对象和同意管理提供程序(CMP)结合使用。 要了解有关IAB的更多信息，请参阅其网站： [https://www.iabeurope.eu/](https://www.iabeurope.eu/)。
+Adobe通过选择加入功能和IAB透明度与同意框架2.2 (TCF 2.2)支持的Audience Manager插件，为您提供用于管理和传达用户所做的隐私选择的方法。 本文与文档结合使用，可帮助您了解IAB TCF的Audience Manager插件，以及它如何与Adobe的选择加入对象和同意管理提供程序(CMP)结合使用。 要了解有关IAB的更多信息，请参阅其网站： [https://www.iabeurope.eu/](https://www.iabeurope.eu/)。
 
 ## 第一步：了解Experience CloudID选择加入 {#first-step-understand-ecid-s-opt-in}
 
@@ -48,7 +45,7 @@ IAB提供的标准之一是“同意字符串”（也称为“DaisyBit”），
 
 ### 目的 {#purposes}
 
-使用IAB TCF 2.0时，有十个“目的”需要收集同意（供应商可以对访客的数据执行哪些操作）。 Adobe Audience Manager不要求所有十项，而是仅要求同意以下目的，以及供应商同意：
+使用IAB TCF 2.2时，有10个“目的”可收集同意（供应商可以对访客的数据执行哪些操作）。 Adobe Audience Manager不要求所有十项，而是仅要求同意以下目的，以及供应商同意：
 
 * **目的1：**&#x200B;存储和/或访问设备上的信息；
 * **目的10：**&#x200B;开发和改进产品；
@@ -89,4 +86,4 @@ IAB TC字符串的另一个部分是数百家供应商的长列表，这样可�
 
 >[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
 
-有关适用于IAB TCF 2.0的Audience Manager插件的更多详细信息（包括如何实施和测试、用例和工作流程），请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html)。
+有关适用于IAB TCF 2.2的Audience Manager插件的更多详细信息（包括如何实施和测试、用例和工作流程），请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html)。

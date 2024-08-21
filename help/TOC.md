@@ -4,7 +4,7 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Audience Manager 教程
 solution: Audience Manager
 type: Tutorial
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 2%
@@ -38,7 +38,7 @@ ht-degree: 2%
       + [使用基于角色的访问控制设置权限](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + 数据治理和隐私{#data-governance-and-privacy}
       + [全局设备ID验证](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
-      + [IAB TCF 2.0支持](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
+      + [IAB TCF 2.2支持](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [按国家/地区划分的IP模糊处理](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
    + 使用量和账单{#usage-and-billing}
       + [监控和报告活动使用情况](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
