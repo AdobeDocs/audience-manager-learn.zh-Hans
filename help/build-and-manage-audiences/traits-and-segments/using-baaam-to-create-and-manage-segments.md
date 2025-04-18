@@ -1,17 +1,17 @@
 ---
 title: 使用BAAAM创建和管理区段
-description: 在Audience Manager中使用BAAAM工具批量创建和管理区段，将它们放入文件夹中，向区段规则添加特征，以及将它们映射到目标等。
-feature: baaam
+description: 使用Audience Manager中的BAAAM工具批量创建和管理区段，将这些区段放入文件夹中，将特征添加到区段规则中，并将它们映射到目标等。
+feature: BAAAM
 topics: null
 audience: marketer
 activity: use
 doc-type: feature video
-team: Technical Marketing
+last-substantial-update: 2025-04-18T00:00:00Z
 thumbnail: 39148.jpg
 kt: 6057
-source-git-commit: be3bdf337d3a567a3aca23a284ba92fa8c968f98
+source-git-commit: b85100e7ad39468ba6bea2da77068ed37685c84d
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 0%
 
 # 使用BAAAM创建和管理区段
 
-在Audience Manager中使用BAAAM工具批量创建和管理区段，将它们放入文件夹中，向区段规则添加特征，以及将它们映射到目标等。
+使用Audience Manager中的BAAAM工具批量创建和管理区段，将这些区段放入文件夹中，将特征添加到区段规则中，并将它们映射到目标等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39148/?quality=12&learn=on)
+
+>[!IMPORTANT]
+>
+>BAAAM需要在64位Microsoft Windows上运行的Microsoft Excel。 我们建议您使用最新版本的Microsoft Excel。 macOS上不再支持批量管理工具。
