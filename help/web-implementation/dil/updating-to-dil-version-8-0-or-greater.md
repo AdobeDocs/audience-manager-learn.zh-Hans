@@ -19,11 +19,11 @@ ht-degree: 0%
 
 # 正在更新到Adobe Audience Manager的DIL版本8.0（或更高版本） {#updating-to-adobe-audience-manager-s-dil-version-or-greater}
 
-本文将为您提供有关将Adobe Audience Manager (AAM) [!DNL Data Integration Library](DIL)代码更新到版本8.0或更高版本的步骤和建议。 这指的是“客户端”DIL实施，而不是Adobe Analytics数据的服务器端转发，将涵盖不使用Adobe标签管理器解决方案的DTM、Launch by Adobe和实施。
+本文将为您提供有关将Adobe Audience Manager (AAM) [!DNL Data Integration Library] (DIL)代码更新到版本8.0或更高版本的步骤和建议。 这指的是“客户端”DIL实施，而不是Adobe Analytics数据的服务器端转发，将涵盖不使用Adobe标签管理器解决方案的DTM、Launch by Adobe和实施。
 
 ## 概述 {#overview}
 
-Audience Manager的[!DNL Data Integration Library](DIL)代码允许您在网站上实施AAM*。 在实施以前版本的DIL时，不需要同时实施Adobe的Experience CloudID服务(ECID)（不过这是一个非常好的主意）。 从DIL版本8.0开始，硬依赖于ECID版本3.3或更高版本。 如果您在不使用ECID 3.3的情况下实施DIL8.0或更高版本，或者实施了早期版本，则会收到错误，并且无法正常使用。 由于有多种方法可以实施AAM，因此我们创建了此页面，为您提供了一些要完成的步骤以及一些建议。 在下面，您会找到按平台/实施方法划分的这些步骤和建议。 有关DIL的详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=en)。
+Audience Manager的[!DNL Data Integration Library] (DIL)代码允许您在网站上实施AAM*。 在实施以前版本的DIL时，不需要同时实施Adobe的Experience CloudID服务(ECID)（不过这是一个非常好的主意）。 从DIL版本8.0开始，硬依赖于ECID版本3.3或更高版本。 如果您在不使用ECID 3.3的情况下实施DIL8.0或更高版本，或者实施了早期版本，则会收到错误，并且无法正常使用。 由于有多种方法可以实施AAM，因此我们创建了此页面，为您提供了一些要完成的步骤以及一些建议。 在下面，您会找到按平台/实施方法划分的这些步骤和建议。 有关DIL的详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=en)。
 
 * 如本页描述中所述，这将仅涵盖“客户端”DIL实施，这些实施由没有Adobe Analytics的AAM客户使用。 如果您拥有Adobe Analytics，则应该使用实施AAM的服务器端转发方法。 [文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html)中介绍了此方法。
 
@@ -84,7 +84,7 @@ Audience Manager的[!DNL Data Integration Library](DIL)代码允许您在网站�
 非Adobe标签管理程序也是如此。 无论该标签管理解决方案中位于何处，只要有旧版本，请按照以下步骤所述将其替换为新的代码。
 
 1. 将您的DIL库更新到最新版本（8.0或更高版本） — 您将需要从Adobe Consulting或Adobe客户关怀部门获取最新的DIL代码，因为它当前在公共位置不可用。 然后，您只需将旧的DIL库代码替换为新的DIL库代码并转到下一步（不要现在停止，否则您将遇到问题，ha）。
-1. 安装[!DNL ECID Service]或将现有版本更新为3.3.0或更高版本。 您可以从我们的GitHub页面](https://github.com/Adobe-Marketing-Cloud/id-service/releases)下载最新的Experience CloudID服务版本[。 如果您需要此方面的帮助，请参阅[文档](https://experienceleague.adobe.com/docs/id-service/using/home.html)或与Adobe顾问交谈。
+1. 安装[!DNL ECID Service]或将现有版本更新为3.3.0或更高版本。 您可以从我们的GitHub页面[&#128279;](https://github.com/Adobe-Marketing-Cloud/id-service/releases)下载最新的Experience CloudID服务版本。 如果您需要此方面的帮助，请参阅[文档](https://experienceleague.adobe.com/docs/id-service/using/home.html)或与Adobe顾问交谈。
 
 1. 确认将自定义代码中用于DIL的任何已弃用方法或元素移至ECID方法：
 

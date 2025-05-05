@@ -15,7 +15,7 @@ ht-degree: 2%
 # Audience Manager 教程 {#tutorials}
 
 + [Audience Manager教程](overview.md)
-+ Audience Manager{#intro-to-audience-manager}简介
++ Audience Manager简介{#intro-to-audience-manager}
    + [DMP如何改变您的业务](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager- DMP概述](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Audience Manager用例](intro-to-audience-manager/audience-manager-use-cases.md)
@@ -149,7 +149,7 @@ ht-degree: 2%
    + [通过重叠报表了解相关受众](reports/understand-related-audiences-with-overlap-reports.md)
    + [使用Audience Optimization报告了解介质性能](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + 其他集成{#other-integrations}
-   + 与Real-time Customer Data Platform {#integrating-with-rtcdp}集成
+   + 与Real-time Customer Data Platform集成 {#integrating-with-rtcdp}
       + [使用Adobe Audience Manager Data Connector摄取数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [了解Real-time CDP中的第一方数据引入](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [了解Real-time CDP中的Web数据引入](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
@@ -160,7 +160,7 @@ ht-degree: 2%
       + [了解Real-time CDP中的目标](other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.md)
       + [了解实时CDP中的访问控制](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
       + [了解Real-time CDP中的数据治理](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
-   + 与Ad Cloud {#integrating-with-ad-cloud}集成
+   + 与Ad Cloud集成 {#integrating-with-ad-cloud}
       + [Adobe Advertising Cloud与Adobe Audience Manager集成](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
    + [在Adobe Developer中检索API凭据](api/retrieve-api-credentials-in-adobe-io.md)
