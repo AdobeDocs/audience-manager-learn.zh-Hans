@@ -56,7 +56,7 @@ tags中的aam的![spa](assets/spa_for_aam_in_launch.png)
 * 在调用Platform标记之前，数据层位于页面顶部
 * 模拟SPA链接中的JavaScript更改[!UICONTROL Data Layer]，然后调用Platform标记（`_satellite.track()`调用）。 如果您使用JavaScript自定义事件而不是此[!UICONTROL Direct Call Rule]，则课程相同。 首先更改[!DNL data layer]，然后调用Platform标记。
 
->[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38106/?quality=12&captions=chi_hans)
 
 ## 其他资源 {#additional-resources}
 

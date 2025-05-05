@@ -20,7 +20,7 @@ ht-degree: 1%
 
 当您从Audience Manager转移到Real-time Customer Data Platform (Real-time CDP)时，您将遇到一些新的概念和做法。 架构和XDM就属于这一类。 此视频介绍这些概念。
 
->[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410352/?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 在本视频中，了解如何在Audience Marketplace上将您的数据设置为私有或公共数据馈送，使您成为第二方或第三方数据的数据提供商。
 
->[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410858/?quality=12&learn=on&captions=chi_hans)

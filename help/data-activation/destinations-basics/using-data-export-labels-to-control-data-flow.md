@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [!UICONTROL Data Export Labels]为您提供了一个Audience Manager机制来控制各种数据类型/源的流量，以便您符合隐私要求。 了解如何以及在何处设置[!UICONTROL Data Export Controls]和[!UICONTROL Data Export Labels]以使其为此目的协同工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345092/?quality=12&learn=on&captions=chi_hans)

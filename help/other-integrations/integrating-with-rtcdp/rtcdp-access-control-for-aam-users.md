@@ -20,7 +20,7 @@ ht-degree: 1%
 
 从Audience Manager迁移到Real-time Customer Data Platform时，您将想知道在何处设置了用户和组权限。 本视频说明访问控制现在将如何在Adobe Admin Console中使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/332091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410902/?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 

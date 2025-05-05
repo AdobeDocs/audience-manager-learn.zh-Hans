@@ -20,7 +20,7 @@ ht-degree: 0%
 
 了解Audience Manager [!UICONTROL Bulk Management]工具，通常称为“BAAAM”。 了解如何进行身份验证，以便您可以使用BAAAM工作表通过REST API创建、编辑和删除特征和区段。
 
->[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340482/?quality=12&learn=on&captions=chi_hans)
 
 >[!IMPORTANT]
 >

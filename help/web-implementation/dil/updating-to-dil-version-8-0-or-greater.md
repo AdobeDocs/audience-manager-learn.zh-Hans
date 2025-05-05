@@ -47,7 +47,7 @@ Audience Manager的[!DNL Data Integration Library] (DIL)代码允许您在网站
 
 **快速提示：**&#x200B;以前使用上述任一方法时，您引用了具有[!UICONTROL Data Source] ID （又称“DPID”）的AAM [!UICONTROL Data Source]。 更新到[!DNL setCustomerIDs]时，您需要改用AAM [!UICONTROL Data Source]的“[!UICONTROL Integration Code]”。 它仍指向相同的[!UICONTROL Data Source]，但只是不同的标识符。 这如下面的视频中所示。
 
->[!VIDEO](https://video.tv.adobe.com/v/23873/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33356/?quality=12&captions=chi_hans)
 
 以下部分列出了根据您的实施方法更新到DIL8.0的步骤和建议：
 
@@ -67,7 +67,7 @@ Audience Manager的[!DNL Data Integration Library] (DIL)代码允许您在网站
 
 1. Publish更改。
 
->[!VIDEO](https://video.tv.adobe.com/v/23874/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33357/?quality=12&captions=chi_hans)
 
 ## 在AdobeDTM中更新到DIL8.0 {#updating-to-dil-in-adobe-dtm}
 

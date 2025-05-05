@@ -22,4 +22,4 @@ ht-degree: 0%
 
 在创建营销活动（特别是扩展活动/受众扩展活动）时，您可能希望排除当前客户，以便以不同的方式向他们进行营销。 此视频讨论了用于创建区段的选项，以排除那些已转换为客户状态的区段。
 
->[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41315/?quality=12&learn=on&captions=chi_hans)

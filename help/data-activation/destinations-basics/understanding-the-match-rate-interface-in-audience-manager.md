@@ -19,6 +19,6 @@ ht-degree: 0%
 
 此视频将引导您逐步了解[!UICONTROL Destination]界面，其中显示并说明了与匹配率和可寻址受众相关的数字。
 
->[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342848/?quality=12&captions=chi_hans)
 
 有关详细信息，请访问产品文档中的[可寻址受众](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=zh-Hans)。

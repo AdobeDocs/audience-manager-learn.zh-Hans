@@ -22,4 +22,4 @@ ht-degree: 0%
 
 使用[!UICONTROL Recency]和[!UICONTROL Frequency]为区段参数指定访客在特定时间段内必须符合某个特征的次数。 非常适合内容关联和频率封顶用例以及其他用例。
 
->[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327047/?quality=12&learn=on&captions=chi_hans)

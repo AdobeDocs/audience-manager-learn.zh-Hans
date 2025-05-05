@@ -22,4 +22,4 @@ ht-degree: 0%
 
 获取一些提示，了解如何理解特征信息屏幕中报告的特征数字。
 
->[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340520/?quality=12&learn=on&captions=chi_hans)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 本视频向您介绍如何在Audience Manager中创建用于基于人员的目标的区段。
 
->[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31665/?quality=12&captions=chi_hans)

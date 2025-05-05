@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解如何在Audience Manager中使用趋势报表来查看特征和区段在一段时间内的表现。
 
->[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340795/?quality=12&learn=on&captions=chi_hans)

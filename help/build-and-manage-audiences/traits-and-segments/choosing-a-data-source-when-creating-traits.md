@@ -22,4 +22,4 @@ ht-degree: 0%
 
 创建特征时要填写的重要字段之一是[!UICONTROL Data Source]字段。 获取有关为基于规则的特征和载入的特征选择正确数据源的提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330133/?quality=12&learn=on&captions=chi_hans)

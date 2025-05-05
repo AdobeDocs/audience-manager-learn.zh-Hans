@@ -31,7 +31,7 @@ ht-degree: 0%
 
 如果您无法通过这些快速引用快速找到它，则视频是简短的时间承诺。 ：)
 
->[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40891/?quality=12&captions=chi_hans)
 
 >[!IMPORTANT]
 >

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 在本视频中，您将了解载入离线数据Audience Manager时要执行的步骤，包括数据文件的文件名要求。
 
->[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346193/?quality=12&learn=on&captions=chi_hans)
 
 有关入站文件数据格式化的视频，请单击[此处](formatting-and-ingesting-file-based-data.md)。
 

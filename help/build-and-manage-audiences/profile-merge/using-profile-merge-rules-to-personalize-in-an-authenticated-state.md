@@ -22,4 +22,4 @@ ht-degree: 0%
 
 使用这些[!UICONTROL Profile Merge Rule]设置为登录的客户提供个性化体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40010/?quality=12&learn=on&captions=chi_hans)

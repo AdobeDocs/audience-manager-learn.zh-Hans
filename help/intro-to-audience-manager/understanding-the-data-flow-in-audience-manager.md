@@ -22,4 +22,4 @@ ht-degree: 0%
 
 此视频通过描述流入、经过和流出应用程序的数据，帮助您了解Adobe Audience Manager。
 
->[!VIDEO](https://video.tv.adobe.com/v/33888/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37123/?quality=12&captions=chi_hans)

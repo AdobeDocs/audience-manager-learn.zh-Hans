@@ -22,4 +22,4 @@ ht-degree: 0%
 
 有关如何为发布[!UICONTROL Profile Merge Rule]增强功能做好最佳准备的概述。
 
->[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31960/?quality=12&captions=chi_hans)

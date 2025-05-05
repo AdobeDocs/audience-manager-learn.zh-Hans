@@ -21,7 +21,7 @@ ht-degree: 0%
 此视频讨论将第一方离线数据摄取到Real-time Customer Data Platform (Real-time CDP)中的问题，适用于那些一直在使用Adobe Audience Manager的用户。 我们查看了这两种产品在数据引入方面的一些主要差异，并展示了如何将Audience Manager数据连接器用作过渡，直到已将流程转移到Real-time CDP。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/331276/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346988/?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 

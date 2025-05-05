@@ -22,4 +22,4 @@ ht-degree: 0%
 
 除了将实时数据从Adobe Analytics转发到Audience Manager中，您还可以通过Experience Cloud将包含后处理数据的区段从Analytics导入到Audience Manager中。 这是一项强大的功能，任何其他DMP都无法夸耀。
 
->[!VIDEO](https://video.tv.adobe.com/v/330804/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344717/?quality=12&learn=on&captions=chi_hans)

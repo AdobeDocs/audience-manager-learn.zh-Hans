@@ -24,4 +24,4 @@ ht-degree: 0%
 
 在此视频中，您将了解 Adobe Audience Manager 如何管理身份，包括内部轮廓和轮廓合并以及 ID 与合作伙伴的同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/34172/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38407/?quality=12&captions=chi_hans)
