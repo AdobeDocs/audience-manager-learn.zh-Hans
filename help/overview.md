@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Audience Manager教程
 
-欢迎访问Audience Manager教程网站。 使用这些教程和[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)将使您更好地了解如何使用Adobe Audience Manager通过Adobe同类最佳的[!DNL data management platform]在任意渠道或设备上创建和激活受众。
+欢迎访问Audience Manager教程网站。 使用这些教程和[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=zh-Hans)将使您更好地了解如何使用Adobe Audience Manager通过Adobe同类最佳的[!DNL data management platform]在任意渠道或设备上创建和激活受众。
 
 * **员工精选**&#x200B;重点介绍我们喜爱的一些内容
 * 在&#x200B;**左侧导航**&#x200B;中按主题和子主题浏览内容
@@ -51,11 +51,11 @@ ht-degree: 0%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=zh-Hans">
       <img alt="“了解Real-time CDP中的区段”教程的缩略图图像" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=zh-Hans">
     <strong>帮助Audience Manager用户了解Real-time CDP中的区段</strong>
     </a>
     </div>
@@ -64,11 +64,11 @@ ht-degree: 0%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=zh-Hans">
       <img alt="“在Audience Manager中配置和报告预测受众”教程的缩略图图像" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=zh-Hans">
     <strong>在Audience Manager中配置和报告预测受众</strong>
     </a>
     </div>

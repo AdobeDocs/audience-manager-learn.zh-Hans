@@ -25,6 +25,6 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
 除了使用此批量上传工具来简化和节省报告数据使用情况的时间外，从[!UICONTROL Audience Marketplace]购买第二方或第三方数据的客户还可以从改进的成本归因策略中获益。 此新策略根据基于规则的区段中特征的独特用户计数来确定数据提供商的成本，从而提高透明度和公平使用计费。
-有关计费算法的更多详细信息，请参阅产品文档中的[CPM数据馈送的成本归因](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html)。
+有关计费算法的更多详细信息，请参阅产品文档中的[CPM数据馈送的成本归因](https://experiencecloud.adobe.com/resources/help/zh_CN/aam/marketplace_cpm_billing.html)。
 
-有关报告CPM使用情况的详细信息，请参阅产品文档中的[如何报告CPM使用情况](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html)。
+有关报告CPM使用情况的详细信息，请参阅产品文档中的[如何报告CPM使用情况](https://experiencecloud.adobe.com/resources/help/zh_CN/aam/t_marketplace_report_cpm_usage.html)。

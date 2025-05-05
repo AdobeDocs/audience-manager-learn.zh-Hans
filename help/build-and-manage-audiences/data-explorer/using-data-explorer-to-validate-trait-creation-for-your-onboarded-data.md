@@ -26,4 +26,4 @@ Audience Manager最强大的功能之一是载入离线数据，并将其与在�
 
 在许多情况下，在实际载入数据之前，您需要为已载入数据创建特征。 但是，可能会在此过程中添加新键和值，并且您可能无法再创建利用此优秀数据所需的所有特征。 通过[!UICONTROL Data Explorer]，您可以执行快速搜索以查看所有已载入数据，并按特定[!UICONTROL Data Source]筛选这些数据，甚至还可以将其筛选为键和/或值。 通过此搜索，您可以高效地验证数据。
 
-有关[!DNL Data Explorer]的详细信息，请访问[https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+有关[!DNL Data Explorer]的详细信息，请访问[https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=zh-Hans](https://experiencecloud.adobe.com/resources/help/zh_CN/aam/data-explorer.html)。

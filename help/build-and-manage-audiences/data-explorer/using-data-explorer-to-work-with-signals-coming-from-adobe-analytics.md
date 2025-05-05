@@ -28,4 +28,4 @@ ht-degree: 0%
 
 [!UICONTROL Data Explorer]已准备就绪，可以帮助您了解各种报表包即将产生的结果，当您发现特征中尚未使用的[!DNL Analytics]信号时，您可以直接单击到[!DNL Trait Builder]并创建特征以在分段中利用这些强大的行为数据。
 
-有关[!DNL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)。
+有关[!DNL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=zh-Hans)。

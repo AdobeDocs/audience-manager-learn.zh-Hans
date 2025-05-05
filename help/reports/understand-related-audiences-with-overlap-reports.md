@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 
-有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting)。
+有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html?lang=zh-Hans#reporting)。

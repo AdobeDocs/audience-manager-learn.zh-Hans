@@ -26,4 +26,4 @@ ht-degree: 0%
 
 直到现在，当您创建特征时，它们仅在以后收集数据。 这意味着您必须创建许多特征才能收到流量或数据。 现在，您可以等待查看哪些键/值对接收数据，然后创建一个特征并将数据回填到该特征中。 这节省了您的时间和精力，并且还有助于保持特征分类紧凑，而不是有多个没有数据的特征。
 
-有关[!DNL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+有关[!DNL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experiencecloud.adobe.com/resources/help/zh_CN/aam/data-explorer.html)。

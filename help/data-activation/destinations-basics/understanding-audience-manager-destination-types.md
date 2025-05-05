@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-您可以在[基于设备的目标文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html)中查看可用的服务器到Audience Manager目标合作伙伴列表。
+您可以在[基于设备的目标文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=zh-Hans)中查看可用的服务器到Audience Manager目标合作伙伴列表。
 
-有关目标的其他信息，请访问产品文档中的[目标](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)。
+有关目标的其他信息，请访问产品文档中的[目标](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=zh-Hans)。

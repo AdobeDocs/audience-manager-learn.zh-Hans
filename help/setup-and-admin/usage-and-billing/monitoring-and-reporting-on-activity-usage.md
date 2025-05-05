@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html?lang=zh-Hans)。

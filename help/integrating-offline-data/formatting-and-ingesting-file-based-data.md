@@ -26,4 +26,4 @@ ht-degree: 0%
 
 有关文件命名和导入的视频，请单击[此处](steps-for-ingesting-file-based-data.md)。
 
-有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?)。
+有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=zh-Hans&)。

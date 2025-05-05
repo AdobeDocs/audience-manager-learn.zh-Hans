@@ -26,4 +26,4 @@ ht-degree: 0%
 
 有关入站文件数据格式化的视频，请单击[此处](formatting-and-ingesting-file-based-data.md)。
 
-有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html)。
+有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=zh-Hans)。
