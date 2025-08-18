@@ -22,7 +22,7 @@ ht-degree: 0%
 
 在本视频中，您将了解如何创建第一方相似人群拓展模型，以便找到更多与您的转化者相似的人员。
 
->[!VIDEO](https://video.tv.adobe.com/v/328070/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
 这方面的用例包括：
 

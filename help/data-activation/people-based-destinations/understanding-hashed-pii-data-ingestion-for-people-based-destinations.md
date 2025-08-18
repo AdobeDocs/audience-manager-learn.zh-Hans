@@ -1,6 +1,6 @@
 ---
 title: 了解基于人员的目标的哈希PII数据摄取
-description: 本视频将介绍在准备将PII摄取到基于人员的目标的Audience Manager中时需要考虑的事项。
+description: 本视频将介绍在准备将PII引入Audience Manager以实现基于人员的目标时需要考虑的事项。
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 了解基于人员的目标的哈希PII数据摄取
 
-本视频将介绍在准备将PII摄取到基于人员的目标的Audience Manager中时需要考虑的事项。
+本视频将介绍在准备将PII引入Audience Manager以实现基于人员的目标时需要考虑的事项。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

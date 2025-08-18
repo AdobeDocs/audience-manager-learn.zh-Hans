@@ -22,4 +22,4 @@ ht-degree: 0%
 
 在本视频中，了解如何设置用于基于人员的目标的[!UICONTROL Profile Merge Rule]，包括何时使用全新的跨设备选项。
 
->[!VIDEO](https://video.tv.adobe.com/v/31666/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

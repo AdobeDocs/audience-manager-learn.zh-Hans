@@ -1,6 +1,6 @@
 ---
 title: 配置文件合并规则增强功能如何影响分段、激活和报表
-description: 了解配置文件合并规则增强功能将如何影响Audience ManagerUI中的总特征和区段人口
+description: 了解Audience Manager UI中的配置文件合并规则增强功能将如何影响总特征和区段人口
 feature: Profile Merge
 topics: null
 activity: understand

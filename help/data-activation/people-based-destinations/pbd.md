@@ -31,6 +31,6 @@ ht-degree: 0%
 * [为基于人员的目标配置配置文件合并规则](configuring-profile-merge-rules-for-people-based-destinations.md)
 * [为基于人员的目标创建区段](creating-segments-for-people-based-destinations.md)
 * [创建和配置基于人员的目标](create-and-configure-people-based-destinations.md)
-* [了解和配置LinkedIn基于人员的目标](understanding-and-configuring-the-linkedin-pbd.md)
+* [了解并配置LinkedIn基于人员的目标](understanding-and-configuring-the-linkedin-pbd.md)
 
-这些视频可以与[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=zh-Hans)结合使用。
+这些视频可以与[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)结合使用。

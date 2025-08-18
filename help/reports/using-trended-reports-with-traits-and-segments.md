@@ -1,6 +1,6 @@
 ---
 title: 将趋势报表与特征和区段结合使用
-description: 了解如何在Audience Manager中使用趋势报表来查看特征和区段在一段时间内的表现。
+description: 了解如何使用Audience Manager中的趋势报表来查看特征和区段在一段时间内的表现。
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 将趋势报表与特征和区段结合使用
 
-了解如何在Audience Manager中使用趋势报表来查看特征和区段在一段时间内的表现。
+了解如何使用Audience Manager中的趋势报表来查看特征和区段随时间的表现。
 
->[!VIDEO](https://video.tv.adobe.com/v/340795/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)

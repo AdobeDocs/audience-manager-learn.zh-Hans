@@ -1,6 +1,6 @@
 ---
 title: 如何摄取基于文件的数据
-description: 在本视频中，您将了解载入离线数据Audience Manager时要执行的步骤，包括数据文件的文件名要求。
+description: 在本视频中，您将了解将离线数据登记到Audience Manager中时要执行的步骤，包括数据文件的文件名要求。
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # 引入基于文件的数据的步骤
 
-在本视频中，您将了解载入离线数据Audience Manager时要执行的步骤，包括数据文件的文件名要求。
+在本视频中，您将了解将离线数据登记到Audience Manager中时要执行的步骤，包括数据文件的文件名要求。
 
->[!VIDEO](https://video.tv.adobe.com/v/346193/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
 有关入站文件数据格式化的视频，请单击[此处](formatting-and-ingesting-file-based-data.md)。
 
-有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=zh-Hans)。
+有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html)。

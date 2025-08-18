@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Audience Manager中按国家/地区列出的IP模糊处理 {#ip-obfuscation-by-country-in-audience-manager}
+# Audience Manager中按国家/地区划分的IP模糊处理 {#ip-obfuscation-by-country-in-audience-manager}
 
-Audience Manager在UI中提供了自助功能，使客户能够在全球范围内或按国家/地区启用IP模糊处理。 此视频将指导您完成设置。
+Audience Manager在UI中提供了自助功能，使客户能够在全球范围或按国家/地区启用IP模糊处理。 此视频将指导您完成设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/34967/?quality=9&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-有关此功能的详细信息，请访问[文档](https://experiencecloud.adobe.com/resources/help/zh_CN/aam/ip-obfuscation.html)。
+有关此功能的详细信息，请访问[文档](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html)。

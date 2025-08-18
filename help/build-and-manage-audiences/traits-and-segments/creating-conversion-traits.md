@@ -22,7 +22,7 @@ ht-degree: 0%
 
 您的某些特征基于网站上的转化。 在本视频中，了解如何指定这些用户，并了解非常重要的提示/发现。
 
->[!VIDEO](https://video.tv.adobe.com/v/328026/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
 您试图让用户在您的网站上执行什么操作？ 什么是转化事件？ 当然，根据您的网站类型/垂直以及组织目标，此问题有许多不同的答案。 无论如何，在AAM中，通常都会为符合这些条件的访客创建特征。
 

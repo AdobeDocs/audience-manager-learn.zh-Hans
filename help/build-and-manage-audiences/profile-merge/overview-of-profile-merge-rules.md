@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解[!UICONTROL Profile Merge Rules]是什么、其工作方式及其对营销人员的价值。
 
->[!VIDEO](https://video.tv.adobe.com/v/31955/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

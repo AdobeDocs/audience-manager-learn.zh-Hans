@@ -1,6 +1,6 @@
 ---
 title: 将网站的Audience Manager实施从客户端DIL迁移到服务器端转发
-description: 了解如何将网站的Audience Manager(AAM)实施从客户端DIL迁移到服务器端转发。 如果您同时具有AAM和Adobe Analytics，并且使用DIL(Data Integration Library)代码将页面中的点击发送到AAM，同时还会将页面中的点击发送到Adobe Analytics，则本教程将适用。
+description: 了解如何将网站的Audience Manager (AAM)实施从客户端DIL迁移到服务器端转发。 如果您同时具有AAM和Adobe Analytics，并且使用DIL (Data Integration Library)代码将页面中的点击发送到AAM，同时还会将页面中的点击发送到Adobe Analytics，则本教程将适用。
 product: audience manager
 feature: Adobe Analytics Integration
 topics: null
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 将网站的Audience Manager实施从客户端DIL迁移到服务器端转发 {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
-如果您同时拥有Adobe Audience Manager (AAM)和Adobe Analytics，并且当前使用DIL([!DNL Data Integration Library])代码将点击从页面发送到AAM，同时还会将点击从页面发送到Adobe Analytics，则本教程适用于您。 由于您拥有这两个解决方案，并且它们都是Adobe Experience Cloud的一部分，因此您有机会遵循启用服务器端转发的最佳实践，这种最佳实践使[!DNL Analytics]数据收集服务器能够实时将网站分析数据转发到Audience Manager，而不是让客户端代码从页面向AAM发送额外的点击。 本教程将指导您完成从旧版客户端DIL实现切换到新版服务器端转发方法的步骤。
+如果您同时拥有Adobe Audience Manager (AAM)和Adobe Analytics，并且当前使用DIL ([!DNL Data Integration Library])代码将点击从页面发送到AAM，同时将点击从页面发送到Adobe Analytics，则本教程适用于您。 由于您拥有这两个解决方案，并且它们都是Adobe Experience Cloud的一部分，因此您有机会遵循启用服务器端转发的最佳实践，这种最佳实践使[!DNL Analytics]数据收集服务器能够实时将网站分析数据转发到Audience Manager，而不是让客户端代码从页面向AAM发送额外的点击。 本教程将指导您完成从旧版客户端DIL实施切换到新版服务器端转发方法的步骤。
 
 ## 客户端(DIL)与服务器端 {#client-side-dil-vs-server-side}
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ![客户端到服务器端](assets/client-side_vs_server-side_aam_implementation.png)
 
-### 客户端DIL实现 {#client-side-dil-implementation}
+### 客户端DIL实施 {#client-side-dil-implementation}
 
 如果使用此方法将Adobe Analytics数据导入AAM，则您将有两个来自网页的点击：一个转到[!DNL Analytics]，另一个转到AAM（在网页上复制[!DNL Analytics]数据后）。 [!UICONTROL Segments]从AAM返回到页面，可在其中用于个性化等。 这被视为旧版实施，不再推荐。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 [!UICONTROL Segments]在同一实时点击中返回到[!DNL Analytics]，后者将响应转发到网页以进行个性化等等。
 
-迁移到服务器端转发没有时间限制。 Adobe强烈建议同时拥有Audience Manager和[!DNL Analytics]的任何用户使用此实现方法。
+迁移到服务器端转发没有时间限制。 Adobe强烈建议同时拥有Audience Manager和[!DNL Analytics]的任何用户使用此实施方法。
 
 ## 您有两个主要任务 {#you-have-two-main-tasks}
 
@@ -61,8 +61,8 @@ ht-degree: 0%
 当您从客户端转发转移到服务器端转发时，您面临的任务之一是将代码更改为新的服务器端转发代码。 可使用以下任一选项完成此操作：
 
 * Adobe Experience Platform标记 — Adobe为Web资产推荐的实施选项。 您会看到这是一项轻松的任务，因为Platform标记已为您完成了所有艰难的工作。
-* 在页面上 — 如果您尚未使用Adobe启动，则还可以将新的SSF代码直接放置到`appMeasurement.js`文件内的`doPlugins`函数中
-* 其他标记管理器 — 这些代码的处理方式与上一步（在页面上）选项相同，因为无论其他标记管理器在何处存储[!DNL AppMeasurement]代码，您仍会将SSF代码放在`doPlugins`中
+* 在页面上 — 如果您尚未使用Adobe Launch，则还可以将新的SSF代码直接放置到`doPlugins`文件内的`appMeasurement.js`函数中
+* 其他标记管理器 — 这些代码的处理方式与上一步（在页面上）选项相同，因为无论其他标记管理器在何处存储`doPlugins`代码，您仍会将SSF代码放在[!DNL AppMeasurement]中
 
 我们将在&#x200B;_更新代码_&#x200B;部分中查看以下各个部分。
 
@@ -70,21 +70,21 @@ ht-degree: 0%
 
 以下步骤描述了实施。
 
-### 步骤0：先决条件：Experience CloudID服务(ECID) {#step-prerequisite-experience-cloud-id-service-ecid}
+### 步骤0：先决条件：Experience Cloud ID服务(ECID) {#step-prerequisite-experience-cloud-id-service-ecid}
 
-迁移到服务器端转发的主要先决条件是实施Experience CloudID服务。 如果您使用的是Experience Platform Launch，则最轻松完成这项操作，在这种情况下，您只需安装ECID扩展并将其余部分用于实施。
+迁移到服务器端转发的主要先决条件是实施Experience Cloud ID服务。 如果您使用的是Experience Platform Launch，则最轻松完成这项操作，在这种情况下，您只需安装ECID扩展并完成其余操作。
 
-如果您使用的是非AdobeTMS，或根本没有TMS，则请实施ECID以在&#x200B;**任何其他Adobe解决方案之前运行**。 有关详细信息，请参阅[ECID文档](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hans)。 唯一的其他先决条件与代码版本有关，因此，由于您只需按以下步骤应用代码的最新版本，因此您不会有任何问题。
+如果您使用的是非Adobe TMS，或根本没有TMS，请实施ECID以在&#x200B;**任何其他Adobe解决方案之前运行**。 有关详细信息，请参阅[ECID文档](https://experienceleague.adobe.com/docs/id-service/using/home.html)。 唯一的其他先决条件与代码版本有关，因此，由于您只需按以下步骤应用代码的最新版本，因此您不会有任何问题。
 
 >[!NOTE]
 >
 >在实施之前，请阅读此完整文档。 下面的“计时”部分包含有关&#x200B;*何时*&#x200B;您应该实施每个项目的重要信息，包括ECID（如果尚未实施）。
 
-### 步骤1：从DIL中记录当前使用的选项 {#step-record-currently-used-options-from-dil-code}
+### 步骤1：从DIL代码中记录当前使用的选项 {#step-record-currently-used-options-from-dil-code}
 
 在您准备好从客户端DIL代码迁移到服务器端转发时，第一步是识别您使用DIL代码执行的所有操作，包括自定义设置以及发送到AAM的数据。 需要注意和考虑的事项包括：
 
-* 使用`siteCatalyst.init`DIL模块的普通[!DNL Analytics]变量 — 您无需担心此变量，因为其作业只是发送普通[!DNL Analytics]变量，只需启用服务器端转发即可完成此操作。
+* 使用[!DNL Analytics] DIL模块的普通`siteCatalyst.init`变量 — 您无需担心此变量，因为其作业只是发送普通[!DNL Analytics]变量，只需启用服务器端转发即可完成此操作。
 * 合作伙伴子域 — 在`DIL.create`函数中，记录`partner`参数。 这称为您的“合作伙伴子域”，有时也称为“合作伙伴ID”，在放置新的服务器端转发代码时需要此ID。
 * [!DNL Visitor Service Namespace] — 也称为您的“[!DNL Org ID]”或“[!DNL IMS Org ID]”，当您设置新的服务器端转发代码时，也会需要此代码。 记下它。
 * containerNSID、uuidCookie和其他高级选项 — 请记下您正在使用的任何其他高级选项，以便您也可以在服务器端转发代码中设置它们。
@@ -102,13 +102,13 @@ ht-degree: 0%
 
 #### “在页面上”或非Adobe标签管理器 {#on-the-page-or-non-adobe-tag-manager}
 
-观看以下视频，了解如何以[!DNL AppMeasurement]代码将实施选项从客户端DIL代码移动到服务器端转发，该代码驻留在文件或非Adobe标签管理系统中。
+观看以下视频，了解如何以[!DNL AppMeasurement]代码将实施选项从客户端DIL代码移动到服务器端转发，该代码驻留在文件或非Adobe标记管理系统中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26312/?quality=12)
 
 ### 步骤3：启用转发（每[!UICONTROL Report Suite]） {#step-enabling-the-forwarding-per-report-suite}
 
-在本教程中，到目前为止，我们已经将全部时间都花在了将代码从客户端DIL代码切换到服务器端转发上。 那没关系，因为这是最困难的部分。 虽然您会看到此部分非常简单，但与更新代码一样重要。 在本视频中，您将了解如何翻转启用将数据从Analytics实际转发到Audience Manager的开关。
+在本教程中，到目前为止，我们花了一切时间将代码从客户端DIL代码切换到服务器端转发。 那没关系，因为这是最困难的部分。 虽然您会看到此部分非常简单，但与更新代码一样重要。 在本视频中，您将了解如何翻转启用将数据从Analytics实际转发到Audience Manager的开关。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
 
@@ -127,7 +127,7 @@ ht-degree: 0%
 
 时间与顺序重要的原因在于转发&#x200B;_实际上_&#x200B;的工作方式，这可以用以下几个技术事实来概括：
 
-* 如果您实施了Experience CloudID服务(ECID)，并且[!DNL Analytics] [!DNL Admin Console]中的开关（“开关”）已打开，那么即使您尚未更新代码，数据也会从[!DNL Analytics]转发到AAM。
+* 如果您实施了Experience Cloud ID服务(ECID)，并且[!DNL Analytics] [!DNL Admin Console]中的开关（“开关”）已打开，那么即使您尚未更新代码，数据也会从[!DNL Analytics]转发到AAM。
 * 如果您未实施ECID，数据将不会转发，即使您已打开开关且服务器端转发代码也是如此。
 * 服务器端转发代码（无论在Platform标记中还是在页面上）将真正处理响应，并且是完成迁移所必需的。
 * 请记住，服务器端转发开关由[!UICONTROL report suite]启用，但代码由Platform标记中的属性处理，或者如果您不使用Platform标记，则由[!DNL AppMeasurement]文件处理。
@@ -138,7 +138,7 @@ ht-degree: 0%
 
 #### 如果您尚未实施ECID {#if-you-do-not-have-ecid-yet-implemented}
 
-1. 为要启用服务器端转发的每个[!UICONTROL report suite]在[!DNL Analytics]中翻转开关。
+1. 为要启用服务器端转发的每个[!DNL Analytics]在[!UICONTROL report suite]中翻转开关。
 
    1. 由于您没有ECID，转发尚未开始。
 
@@ -148,19 +148,19 @@ ht-degree: 0%
 
 #### 如果您实施了ECID {#if-you-do-have-ecid-implemented}
 
-1. 准备并规划，以便准备好根据[!UICONTROL report suite]将启用服务器端转发的将代码从DIL更新到服务器端转发：
+1. 准备并规划，以便准备好将代码从DIL更新到服务器端转发（根据[!UICONTROL report suite]，您将启用服务器端转发）：
 
    1. 在[!DNL Analytics]中翻转交换机以启用服务器端转发。
 
       1. 由于您已启用ECID，转发操作将启动。
 
-   1. 请尽快将您的代码从客户端DIL更新为单端转发（这可以在Platform标签中或页面上，如上面的另一节所述）。
+   1. 请尽快将您的代码从客户端DIL更新为单端转发（这可以在Platform标记中或页面上，如上面的另一部分所述）。
 
       1. 您应会收到针对[!DNL Analytics]信标的正确JSON响应（有关更多详细信息，请参阅下面的[验证和故障排除](#validation-and-troubleshooting)部分）。
 
 >[!NOTE]
 >
->执行这两个步骤时，请务必尽可能靠近，因为在上面的步骤1和2之间，进入AAM的数据将会重复。 换言之，单端转发将已开始将数据从[!DNL Analytics]发送到AAM，由于DIL代码仍在页面上，因此还会有直接从页面进入AAM的点击，从而使数据翻倍。 一旦您将代码从DIL更新到服务器端转发，这种情况就会缓解。
+>执行这两个步骤时，必须尽可能靠近，因为在上面的步骤1和2之间，您会将重复的数据传入AAM。 换言之，单端转发已开始将数据从[!DNL Analytics]发送到AAM，由于DIL代码仍在页面上，因此还会有直接从页面进入AAM的点击，从而使数据翻倍。 一旦您将代码从DIL更新到服务器端转发，这种情况就会减轻。
 
 >[!NOTE]
 >
@@ -189,7 +189,7 @@ ht-degree: 0%
 
 验证服务器端转发是否已启动并正在运行的主要方法是，查看应用程序针对任意Adobe Analytics点击的响应。
 
-如果您没有对数据执行从[!DNL Analytics]到Audience Manager的服务器端转发，则实际不会有任何针对[!DNL Analytics]信标的响应（除2x2像素以外）。 但是，如果您正在执行服务器端转发，则可以在[!DNL Analytics]请求和响应中验证一些项目，以确认[!DNL Analytics]与Audience Manager正确通信、转发点击并获得响应。
+如果您没有对数据执行从[!DNL Analytics]到Audience Manager的服务器端转发，则实际不会有任何针对[!DNL Analytics]信标的响应（除2x2像素以外）。 但是，如果您正在执行服务器端转发，则可以在[!DNL Analytics]请求和响应中验证一些项目，以告知[!DNL Analytics]正在与Audience Manager正确通信、转发点击以及获取响应。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26359/?quality=12)
 
@@ -202,4 +202,4 @@ ht-degree: 0%
 
 ![误报的成功](assets/falsesuccess.png)
 
-有关服务器端转发的详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=zh-Hans)。
+有关服务器端转发的详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html)。

@@ -28,4 +28,4 @@ ht-degree: 0%
 * 使用Adobe Analytics时通过非Adobe标签管理器实施
 * 在不使用Adobe Analytics时通过非Adobe标签管理器实施
 
->[!VIDEO](https://video.tv.adobe.com/v/33580/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

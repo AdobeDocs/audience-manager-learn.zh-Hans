@@ -1,5 +1,5 @@
 ---
-title: 使用Data Explorer创建可回溯的特征和区段
+title: 使用Data Explorer创建可追溯的特征和区段
 description: 了解如何创建可追溯的特征，例如，在创建特征之前将数据回填到特征中的特征。 在特征创建方面，这是一个重大突破！
 feature: Data Explorer
 topics: null
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 本视频说明如何创建追溯特征，例如创建特征之前将数据回填到特征中的特征。 在特征创建方面，这是一个重大突破！
 
->[!VIDEO](https://video.tv.adobe.com/v/327530/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
 直到现在，当您创建特征时，它们仅在以后收集数据。 这意味着您必须创建许多特征才能收到流量或数据。 现在，您可以等待查看哪些键/值对接收数据，然后创建一个特征并将数据回填到该特征中。 这节省了您的时间和精力，并且还有助于保持特征分类紧凑，而不是有多个没有数据的特征。
 
-有关[!DNL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experiencecloud.adobe.com/resources/help/zh_CN/aam/data-explorer.html)。
+有关[!DNL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。

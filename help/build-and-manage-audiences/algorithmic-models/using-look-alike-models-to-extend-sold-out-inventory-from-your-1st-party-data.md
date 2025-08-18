@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 用例详细信息 {#use-case-details}
 
-您是内容发布者。 如果您已经将网站上转换器的库存售罄，您可能会认为您的机会到此为止。 输入AAM相似人群拓展项目[!UICONTROL Models]。 通过使用此功能，您可以进一步扩展已售出的库存，还可以销售那些可能尚未转化，但外表/行为与已转化的人相似的受众。 此受众区段的售价通常低于实际的转化商，但是仍然允许您通过为希望在网站上放置广告的广告商提供额外的受众选项来增加利润。 此用例的额外好处是，在第一方数据中运行此模型不会产生任何费用。
+您是内容发布者。 如果您已经将网站上转换器的库存售罄，您可能会认为您的机会到此为止。 输入AAM的相似人群拓展工具[!UICONTROL Models]。 通过使用此功能，您可以进一步扩展已售出的库存，还可以销售那些可能尚未转化，但外表/行为与已转化的人相似的受众。 此受众区段的售价通常低于实际的转化商，但是仍然允许您通过为希望在网站上放置广告的广告商提供额外的受众选项来增加利润。 此用例的额外好处是，在第一方数据中运行此模型不会产生任何费用。
 
 本教程中的步骤如下所示：
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
 此外，在使用事件创建特征时，需要牢记以下要点，以便您不会将过多的用户收集到特征中。 观看以下视频，了解重大展现。 ：)
 
->[!VIDEO](https://video.tv.adobe.com/v/328026/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：**&#x200B;在上面的视频中，我展示的示例假定您拥有Adobe Analytics。 显然，情况可能并非如此。 如果您有Google Analytics(GA)，则我们有一个可用于将数据发送到AAM的模块（请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=zh-Hans)），如果您网站上的转化活动是通过GA发送到AAM，则您可以从中创建转化特征。 如果您有其他Analytics解决方案（或没有Analytics解决方案），则仍可以通过我们的DIL代码和`submit`函数等将数据发送到AAM。 （请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=zh-Hans)）。 然后，再次根据在网站上执行转化活动时发送的数据创建转化特征。
+**注意：**&#x200B;在上面的视频中，我展示的示例假定您拥有Adobe Analytics。 显然，情况可能并非如此。 如果您使用的是Google Analytics (GA)，则我们有一个可用于将数据发送到AAM的模块（请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)），如果您网站上的转化活动是通过GA发送到AAM，则您可以从中创建转化特征。 如果您有其他Analytics解决方案（或没有Analytics解决方案），则仍可以通过我们的DIL代码和`submit`函数等将数据发送到AAM。 （请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)）。 然后，再次根据在网站上执行转化活动时发送的数据创建转化特征。
 
 ## 从第一方数据创建相似人群拓展模型 {#creating-a-look-alike-model-from-first-party-data}
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
 在此使用案例中，这一点很重要，因为我们正在尝试在我们的网站上创建一个看起来像转化者但还没有转化的用户区段，以便我们可以将此相似区段出售给感兴趣的广告商。
 
->[!VIDEO](https://video.tv.adobe.com/v/328070/?quality-12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
 
 ## 创建算法特征 {#creating-an-algorithmic-trait}
 
 接下来，我们需要创建一个[!UICONTROL Algorithmic Trait]，以便使用该模型的结果。 如果不创建特征，模型将毫无用处。 因此，在模型运行后，请确保进入特征对话框并创建[!UICONTROL Algorithmic Trait]。 以下视频介绍了它并显示了几个提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/30271/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
 
 ## 将[!UICONTROL Algorithmic Segment]提供给广告商 {#offering-the-algorithmic-segment-to-advertisers}
 

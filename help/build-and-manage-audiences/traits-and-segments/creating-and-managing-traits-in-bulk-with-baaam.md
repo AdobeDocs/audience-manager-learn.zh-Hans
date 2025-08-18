@@ -20,9 +20,9 @@ ht-degree: 0%
 
 在创建、编辑或删除特征时，使用UI逐个执行操作可能会效率低下且耗时。 在本视频中，了解如何使用Audience Manager的批量管理工具BAAAM批量创建、编辑和删除特征，并将简单的Microsoft电子表格用作REST API的界面。
 
->[!VIDEO](https://video.tv.adobe.com/v/344709/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-有关详细信息（包括下载BAAAM工作表），请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=zh-Hans#reference)。
+有关详细信息（包括下载BAAAM工作表），请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference)。
 
 >[!IMPORTANT]
 >

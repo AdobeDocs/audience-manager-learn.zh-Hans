@@ -22,6 +22,6 @@ ht-degree: 0%
 
 在此视频中，我们确定了四个常见的Audience Manager用例，并介绍了与这些用例相关的最佳实践。
 
->[!VIDEO](https://video.tv.adobe.com/v/37272/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=zh-Hans)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)。

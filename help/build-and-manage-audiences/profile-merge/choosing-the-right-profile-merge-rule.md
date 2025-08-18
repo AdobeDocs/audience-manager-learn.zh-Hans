@@ -22,4 +22,4 @@ ht-degree: 0%
 
 在此视频中，您会发现[!UICONTROL Profile Merge Rules]的三个最常见用例，以及这些用例如何帮助您进行营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/326870/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)

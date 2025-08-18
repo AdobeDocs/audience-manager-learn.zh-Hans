@@ -22,4 +22,4 @@ ht-degree: 0%
 
 您无需联系Adobe Consulting或客户关怀部门来获取有关使用REST API的凭据，只要在浏览器中访问developer.adobe.com并检索或注册您自己的凭据即可。
 
->[!VIDEO](https://video.tv.adobe.com/v/326846/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)

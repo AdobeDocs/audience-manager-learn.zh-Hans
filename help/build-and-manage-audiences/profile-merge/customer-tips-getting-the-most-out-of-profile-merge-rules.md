@@ -22,7 +22,7 @@ ht-degree: 0%
 
 **Varun Kalra**，位于&#x200B;**Accordant**&#x200B;的多解决方案顾问，提供有关选择和使用配置文件合并规则(PMR)的提示。
 
-Varun Kalra是多解决方案顾问，在悉尼Adobe解决方案合作伙伴 — Accordant工作。 Varun主要用于Audience Manager、Adobe Analytics和AEP项目，这些项目涉及数据发现、实施、支持和启用。 提示包括以下主题：
+Varun Kalra是多解决方案顾问，在悉尼的Adobe解决方案合作伙伴 — Accordant工作。 Varun主要用于Audience Manager、Adobe Analytics和AEP项目，这些项目涉及数据发现、实施、支持和启用。 提示包括以下主题：
 
 * 确定PMR配置的活动目标
 * 更深入地研究定位用例

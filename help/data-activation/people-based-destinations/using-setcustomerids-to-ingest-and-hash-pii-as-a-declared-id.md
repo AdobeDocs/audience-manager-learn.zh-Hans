@@ -1,6 +1,6 @@
 ---
 title: 使用setCustomerIDs()将PII作为声明的ID进行摄取和散列
-description: 了解Experience CloudID服务setCustomerIDs()方法来摄取和哈希电子邮件地址。 了解如何将其用作声明的ID。
+description: 了解Experience Cloud ID服务setCustomerIDs()方法来摄取和哈希电子邮件地址。 了解如何将其用作声明的ID。
 feature: People-based Destinations
 topics: null
 activity: implement
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # 使用setCustomerIDs()将PII作为声明的ID进行摄取和散列
 
-在本视频中，您将了解为何以及如何使用Experience CloudID服务`setCustomerIDs()`方法摄取和哈希电子邮件地址，并将其用作声明的ID。 这不仅会将CRM ID和电子邮件地址关联在一起，还会将它们同步到Adobe Audience Manager UUID，例如匿名设备ID。 这些经过哈希处理的电子邮件地址随后可以发送到基于人员的目标。
+在本视频中，您将了解为何以及如何使用Experience Cloud ID服务`setCustomerIDs()`方法摄取和哈希电子邮件地址，并将其用作声明的ID。 这不仅会将CRM ID和电子邮件地址关联在一起，还会将它们同步到Adobe Audience Manager UUID，例如匿名设备ID。 这些经过哈希处理的电子邮件地址随后可以发送到基于人员的目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/30100/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=zh-Hans)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html)。

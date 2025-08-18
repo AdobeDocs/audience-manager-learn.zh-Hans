@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解如何在创建新特征或编辑现有特征时使用代码视图。 设置特征表达式时，代码视图是表达式生成器的替代方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/330141/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/326613/?quality=12&learn=on)

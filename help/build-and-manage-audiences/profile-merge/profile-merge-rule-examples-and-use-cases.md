@@ -22,4 +22,4 @@ ht-degree: 0%
 
 在此视频中，您将看到[!UICONTROL Profile Merge Rules]的示例及其含义以及[!UICONTROL Profile Merge Rules]解析的用例。
 
->[!VIDEO](https://video.tv.adobe.com/v/31954/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)

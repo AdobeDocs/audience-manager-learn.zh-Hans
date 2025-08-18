@@ -28,7 +28,7 @@ ht-degree: 1%
 <table>
   <tr>
    <td>平台 </td>
-   <td>AAM Data Source ID </td>
+   <td>AAM数据Source ID </td>
    <td>ID格式 </td>
    <td>AAM PID </td>
    <td>注释 </td>
@@ -57,7 +57,7 @@ ht-degree: 1%
   <tr>
    <td>Microsoft Advertising ID (MAID)</td>
    <td>389146</td>
-   <td>数字字符串Alpha</td>
+   <td>Alpha数字字符串</td>
    <td>14593</td>
    <td>此ID必须以原始/未哈希/未更改的表单引用形式收集 — <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid">https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid</a><br/><a href="https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx">https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx</a></td>
   </tr>
@@ -72,30 +72,30 @@ ht-degree: 1%
 
 ## 在应用程序中设置Advertising标识符 {#setting-an-advertising-identifier-in-the-app}
 
-在应用程序中设置广告商ID实际上是一个两步过程，首先检索广告商ID，然后将其发送给Experience Cloud。 执行上述步骤的链接如下所示。
+在应用程序中设置广告商ID实际上是一个两步过程，首先检索广告商ID，然后将其发送到Experience Cloud。 执行上述步骤的链接如下所示。
 
 1. 检索ID
-   1. 有关[!DNL advertising ID]的[!DNL Apple]信息可在[此处](https://developer.apple.com/documentation/adsupport/asidentifiermanager)找到。
-   1. 有关为[!DNL Android]开发人员设置[!DNL advertiser ID]的一些信息可以在[此处](http://android.cn-mirrors.com/google/play-services/id.html)找到。
-1. 在SDK中使用[!DNL setAdvertisingIdentifier]方法将其发送到Experience Cloud中
-   1. 有关使用`setAdvertisingIdentifier`的信息同时包含在[!DNL iOS]和[!DNL Android]的[文档](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)中。
+   1. 有关[!DNL Apple]的[!DNL advertising ID]信息可在[此处](https://developer.apple.com/documentation/adsupport/asidentifiermanager)找到。
+   1. 有关为[!DNL advertiser ID]开发人员设置[!DNL Android]的一些信息可以在[此处](http://android.cn-mirrors.com/google/play-services/id.html)找到。
+1. 在SDK中使用[!DNL setAdvertisingIdentifier]方法将其发送到Experience Cloud
+   1. 有关使用`setAdvertisingIdentifier`的信息同时包含在[和](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)的[!DNL iOS]文档[!DNL Android]中。
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
 
 ## 用于错误ID的DCS错误消息  {#dcs-error-messaging-for-incorrect-ids}
 
-如果实时提交不正确的全局设备ID（IDFA、GAID等）以供Audience Manager，则点击时将返回错误代码。 以下是一个返回错误的示例，因为ID作为[!DNL Apple IDFA]发送，其中只应包含大写字母，但ID中存在小写字母“x”。
+当向Audience Manager实时提交不正确的全局设备ID（IDFA、GAID等）时，点击时将返回错误代码。 以下是一个返回错误的示例，因为ID作为[!DNL Apple IDFA]发送，其中只应包含大写字母，但ID中存在小写字母“x”。
 
 ![错误图像](assets/image_4_.png)
 
-有关错误代码列表，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=zh-Hans#api-and-sdk-code)。
+有关错误代码列表，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code)。
 
 ## 载入全局设备ID {#onboarding-global-device-ids}
 
-除了实时提交全局设备ID之外，您还可以根据ID &quot;[!DNL onboard]&quot;（上传）数据。 此过程与根据客户ID（通常通过键/值对）载入数据时相同，但您只需使用适当的Data Source ID即可，以便将数据分配给全局设备ID。 有关载入流程的文档可在[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=zh-Hans#implementation-integration-guides)中找到。 请记住，根据您使用的平台，使用全局数据源ID。
+除了实时提交全局设备ID之外，您还可以根据ID &quot;[!DNL onboard]&quot;（上传）数据。 此过程与根据客户ID（通常通过键/值对）载入数据时相同，但您只需使用适当的Data Source ID即可，以便将数据分配给全局设备ID。 有关载入流程的文档可在[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides)中找到。 请记住，根据您使用的平台，使用全局数据源ID。
 
-如果通过载入流程提交的全局设备ID不正确，则错误将显示在[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=zh-Hans#reporting)中。
+如果通过载入流程提交的全局设备ID不正确，则错误将显示在[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting)中。
 
 以下是通过该报表出现的错误示例：
 

@@ -20,15 +20,15 @@ ht-degree: 0%
 
 # 在Audience Manager中使用算法（相似）模型提高ROAS {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}
 
-当您寻求针对来自第二方和第三方数据源的高质量、全新用户集扩展您的基准受众时，Audience Manager相似的[!UICONTROL Modeling]的真正力量就来了。 在本教程中，了解从此数据创建模型所需的步骤。
+当您寻求针对来自第二方和第三方数据源的高质量、全新用户集扩展您的基准受众时，Audience Manager的相似受众[!UICONTROL Modeling]的真正强大功能就来了。 在本教程中，了解从此数据创建模型所需的步骤。
 
 ## 启用来自Audience Marketplace的第二方或第三方数据流 {#enable-2nd-or-3rd-party-data-streams-from-the-audience-marketplace}
 
-要在相似模型中使用第二方和第三方数据，我们首先必须将此数据启用到您的Audience Manager界面中。 Adobe有大量第二方和第三方数据提供商可供您选择。 您可以通过Audience Marketplace在AAM中的自助式界面中找到这些内容。 导航到Audience Marketplace并浏览各种可能性。 以下视频将展示如何执行此操作，包括如何启用免费的“购买前尝试”流，以便在您承诺使用数据提供商的定价之前，锁定对您的组织最有用的数据。
+要在相似模型中使用第二方和第三方数据，我们首先必须将此数据启用到您的Audience Manager界面中。 Adobe具有大量可供您选择的第二方和第三方数据提供商。 这些通过Audience Marketplace在AAM中的自助界面中提供。 导航到Audience Marketplace并浏览各种可能性。 以下视频将展示如何执行此操作，包括如何启用免费的“购买前尝试”流，以便在您承诺使用数据提供商的定价之前，锁定对您的组织最有用的数据。
 
 此外，为了帮助您研究和决定要使用哪个数据提供程序，[[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/)是一项很棒资源。
 
->[!VIDEO](https://video.tv.adobe.com/v/30270/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
 
 ## 识别或创建理想的用户（转化）特征或区段 {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
@@ -38,15 +38,15 @@ ht-degree: 0%
 
 此外，在使用Adobe Analytics事件创建特征时，需要牢记以下要点，以便您不会将过多的用户收集到特征中。 观看以下视频，了解重大展现。 ：)
 
->[!VIDEO](https://video.tv.adobe.com/v/328026/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：**&#x200B;在上面的视频中，我展示的示例假定您拥有Adobe Analytics。 显然，情况可能并非如此。 如果您有Google Analytics(GA)，则我们有一个可用于将数据发送到AAM的模块（请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=zh-Hans)），如果您网站上的转化活动是通过GA发送到AAM，则您可以从中创建转化特征。 如果您有其他Analytics解决方案（或没有Analytics解决方案），则仍可以通过我们的DIL代码和`submit`函数等将数据发送到AAM。 （请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=zh-Hans)）。 然后，根据在网站上执行转化活动时发送的数据创建转化特征。
+**注意：**&#x200B;在上面的视频中，我展示的示例假定您拥有Adobe Analytics。 显然，情况可能并非如此。 如果您使用的是Google Analytics (GA)，则我们有一个可用于将数据发送到AAM的模块（请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)），如果您网站上的转化活动是通过GA发送到AAM，则您可以从中创建转化特征。 如果您有其他Analytics解决方案（或没有Analytics解决方案），则仍可以通过我们的DIL代码和`submit`函数等将数据发送到AAM。 （请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)）。 然后，根据在网站上执行转化活动时发送的数据创建转化特征。
 
 ## 根据第二方或第三方数据创建相似人群拓展模型 {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 
 完成上述步骤后，我们现在可以创建算法（相似）模型。 在设置模型时，我们将使用转化特征作为基本特征（我们要复制的关键访客），并将启用的第三方数据流作为要提取的人员池。
 
->[!VIDEO](https://video.tv.adobe.com/v/30269/?quality-12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
 
 ## 重要的最佳实践 {#an-important-best-practice}
 
@@ -56,9 +56,9 @@ ht-degree: 0%
 
 接下来，我们需要创建一个[!UICONTROL Algorithmic Trait]，以便使用该模型的结果。 如果不创建特征，模型将毫无用处。 因此，在模型运行后，请确保进入特征对话框并创建[!UICONTROL Algorithmic Trait]。 以下视频介绍了它并显示了几个提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/30268/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
 
-## 从模型数据创建一个区段并将它发送到DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
+## 从模型数据创建一个区段并将其发送给DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 
 创建[!UICONTROL Algorithmic Trait]后，您可以创建一个新区段来放置该区段，以便您可以激活数据(您无法激活特征，而是创建一个包含[!UICONTROL Algorithmic Trait]的新单特征区段，以便您可以激活（使用）该区段)。
 

@@ -1,6 +1,6 @@
 ---
-title: 使用特征Recommendations增强区段
-description: 使用“特征Recommendations”，在构建或编辑区段时，您能够获得可包含的其他推荐特征（与区段规则中的特征类似）。
+title: 使用特征推荐增强区段
+description: 使用“特征推荐”，在构建或编辑区段时，您能够获得可包含的其他推荐特征（与区段规则中的特征类似）。
 feature: Segments
 topics: null
 activity: use
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 使用[!UICONTROL Trait Recommendations]，当您在[!UICONTROL Segments]中构建或编辑区段时，您能够获得可包含的其他推荐特征（与区段规则中的特征类似）。
 
->[!VIDEO](https://video.tv.adobe.com/v/40843/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
 [!UICONTROL Trait Recommendations]同时处理第一方和第三方数据，以便您可以包含其他推荐的[!UICONTROL Traits]并增加目标受众。
 
-有关此功能的详细信息，请访问[文档](https://experiencecloud.adobe.com/resources/help/zh_CN/aam/trait-recommendations.html)。
+有关此功能的详细信息，请访问[文档](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html)。

@@ -1,6 +1,6 @@
 ---
 title: 根据Analytics数据规划特征创建
-description: 了解提示和技巧，以帮助您在特征中将Adobe Analytics数据用于Audience Manager。
+description: 了解提示和技巧，以帮助您在计划将Adobe Analytics数据用于Audience Manager中的特征时提供帮助。
 feature: Traits
 topics: null
 activity: implement
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 根据Analytics数据规划特征创建
 
-了解提示和技巧，以帮助您在特征中将Adobe Analytics数据用于Audience Manager。
+了解提示和技巧，以帮助您在计划将Adobe Analytics数据用于Audience Manager中的特征时提供帮助。
 
->[!VIDEO](https://video.tv.adobe.com/v/330125/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/326780/?quality=12&learn=on)

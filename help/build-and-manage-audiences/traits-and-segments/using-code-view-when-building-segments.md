@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解如何使用代码视图来定义区段，进而允许您创建复杂的特征组合，包括使用回访间隔和频度。
 
->[!VIDEO](https://video.tv.adobe.com/v/326797/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/38035/?quality=12&learn=on)

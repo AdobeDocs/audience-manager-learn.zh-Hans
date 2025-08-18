@@ -1,5 +1,5 @@
 ---
-title: 使用筛选器和推荐在Audience Marketplace中选择第三方数据
+title: 在Audience Marketplace中使用筛选器和建议选择第三方数据
 description: 本视频介绍Audience Marketplace中的过滤器和推荐选项，帮助您根据需求选择正确的第三方数据提供商。
 feature: Audience Marketplace
 topics: null
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=zh-Hans)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html)。

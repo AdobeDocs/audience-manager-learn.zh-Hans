@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解区段信息屏幕的图形中显示的数字。
 
->[!VIDEO](https://video.tv.adobe.com/v/326854/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/38041/?quality=12&learn=on)

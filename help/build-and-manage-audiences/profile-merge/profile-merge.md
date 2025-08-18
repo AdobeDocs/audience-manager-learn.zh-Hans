@@ -32,4 +32,4 @@ ht-degree: 0%
 * [解释受众身份报表](interpret-audience-identity-reporting.md)
 * [了解Audience Manager中的跨设备量度](understanding-cross-device-metrics-in-audience-manager.md)
 
-这些视频可以与[配置文件合并规则文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=zh-Hans)结合使用
+这些视频可以与[配置文件合并规则文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)结合使用

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 创建跨设备数据源和身份验证
 
-如果您希望将第一方CRM数据引入Audience Manager以更好地定位您的客户，则需要首先创建跨设备数据源来存储CRM ID和数据。 这会向您说明如何这样做以及在Experience Platform标签中为登录设置`setCustomerIDs()`方法。
+如果您希望将第一方CRM数据引入Audience Manager以更好地定位您的客户，则需要首先创建跨设备数据源来存储CRM ID和数据。 这会向您说明如何这样做以及在Experience Platform标记中设置`setCustomerIDs()`方法以供登录。
 
->[!VIDEO](https://video.tv.adobe.com/v/346209/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)

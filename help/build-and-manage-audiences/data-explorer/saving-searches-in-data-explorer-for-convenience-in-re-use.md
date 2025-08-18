@@ -1,6 +1,6 @@
 ---
 title: 在Data Explorer中保存搜索以方便重复使用
-description: 在本视频中，了解如何在Data Explorer中配置搜索，运行搜索，然后保存搜索以供稍后重复使用。 您还可以将保存的搜索放在功能板上，以便在进入Signals应用程序时立即可用。
+description: 在本视频中，了解如何在Data Explorer中配置搜索、运行搜索，然后保存搜索以供稍后重复使用。 您还可以将保存的搜索放在功能板上，以便在进入Signals应用程序时立即可用。
 feature: Data Explorer
 topics: null
 activity: use
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-有关[!UICONTROL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experiencecloud.adobe.com/resources/help/zh_CN/aam/data-explorer.html)。
+有关[!UICONTROL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
