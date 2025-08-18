@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-有关区段的详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html)。
+有关区段的详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=zh-Hans)。

@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html)。
+有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=zh-Hans)。

@@ -74,7 +74,7 @@ ht-degree: 0%
 
 迁移到服务器端转发的主要先决条件是实施Experience Cloud ID服务。 如果您使用的是Experience Platform Launch，则最轻松完成这项操作，在这种情况下，您只需安装ECID扩展并完成其余操作。
 
-如果您使用的是非Adobe TMS，或根本没有TMS，请实施ECID以在&#x200B;**任何其他Adobe解决方案之前运行**。 有关详细信息，请参阅[ECID文档](https://experienceleague.adobe.com/docs/id-service/using/home.html)。 唯一的其他先决条件与代码版本有关，因此，由于您只需按以下步骤应用代码的最新版本，因此您不会有任何问题。
+如果您使用的是非Adobe TMS，或根本没有TMS，请实施ECID以在&#x200B;**任何其他Adobe解决方案之前运行**。 有关详细信息，请参阅[ECID文档](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hans)。 唯一的其他先决条件与代码版本有关，因此，由于您只需按以下步骤应用代码的最新版本，因此您不会有任何问题。
 
 >[!NOTE]
 >
@@ -202,4 +202,4 @@ ht-degree: 0%
 
 ![误报的成功](assets/falsesuccess.png)
 
-有关服务器端转发的详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html)。
+有关服务器端转发的详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=zh-Hans)。

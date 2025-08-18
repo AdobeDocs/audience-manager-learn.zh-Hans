@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-有关详细信息，请访问产品文档中的[可寻址受众](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html)。
+有关详细信息，请访问产品文档中的[可寻址受众](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=zh-Hans)。

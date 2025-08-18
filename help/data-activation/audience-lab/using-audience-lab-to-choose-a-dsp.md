@@ -32,4 +32,4 @@ ht-degree: 0%
 1. 检查测试摘要并激活测试
 1. 测试完成后，访问[!UICONTROL Audience Lab]主主屏幕上的结果
 
-有关详细信息，请参阅[功能文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html)。
+有关详细信息，请参阅[功能文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html?lang=zh-Hans)。
