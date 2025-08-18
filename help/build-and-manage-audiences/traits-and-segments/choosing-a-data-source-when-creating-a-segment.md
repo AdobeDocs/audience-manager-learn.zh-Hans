@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解在Audience Manager中创建新区段时如何选择正确的数据源的一些提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327393/?quality=12&learn=on&captions=chi_hans)

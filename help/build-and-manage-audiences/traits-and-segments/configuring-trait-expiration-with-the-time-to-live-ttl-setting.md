@@ -22,4 +22,4 @@ ht-degree: 0%
 
 创建特征时的设置之一是[!UICONTROL Time to Live] (TTL)设置，如果您未在指定时间段内重新获得资格，则该设置将到期特征中的成员资格。 本视频说明如何查看和设置此功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341328/?quality=12&learn=on&captions=chi_hans)

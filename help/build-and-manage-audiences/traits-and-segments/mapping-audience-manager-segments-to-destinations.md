@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解Audience Manager中的各种目标类型以及将区段映射到每种目标类型的详细信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/39158/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327385/?quality=12&learn=on&captions=chi_hans)

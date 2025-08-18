@@ -22,4 +22,4 @@ ht-degree: 0%
 
 在本视频中，您将了解设备配置文件和跨设备配置文件之间的区别，以及界面中的数字与这些不同的配置文件类型匹配的情况。
 
->[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36831/?quality=12&captions=chi_hans)

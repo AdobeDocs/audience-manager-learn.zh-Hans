@@ -20,4 +20,4 @@ ht-degree: 0%
 
 当您从Audience Manager转移到实时客户数据平台(Real-time CDP)时，必须了解目标，以便您知道如何将受众区段激活到目标合作伙伴。 此视频讨论了不同的目标类型以及它们在Real-time CDP中的位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410882/?quality=12&learn=on&captions=chi_hans)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 通过受众身份报告，客户能够按人员/家庭身份定义报告某个特征或区段的总人口。 观看本视频，了解它在Audience Manager报表中的显示方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31957/?quality=12&captions=chi_hans)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 在本视频中，了解如何格式化基于文件的ID同步，以将您的客户ID (CRM ID)与经过哈希处理的电子邮件地址关联在一起。 这将允许您向基于人员的目标（如[!DNL Facebook]）发送经过哈希处理的电子邮件地址。
 
->[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31667/?quality=12&captions=chi_hans)

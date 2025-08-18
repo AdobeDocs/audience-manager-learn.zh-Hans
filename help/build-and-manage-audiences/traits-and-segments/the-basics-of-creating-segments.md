@@ -22,6 +22,6 @@ ht-degree: 0%
 
 浏览UI中的字段以在Audience Manager中创建区段。
 
->[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326728/?quality=12&learn=on&captions=chi_hans)
 
 有关区段的详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=zh-Hans)。

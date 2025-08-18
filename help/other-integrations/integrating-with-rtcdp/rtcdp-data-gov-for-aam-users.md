@@ -20,7 +20,7 @@ ht-degree: 1%
 
 此视频向Audience Manager用户介绍了实时客户数据平台中的数据治理功能，并将其与Audience Manager中提供的功能进行了比较。 它讨论了数据使用和标签实施(DULE)框架以及在平台中可以应用的地方。
 
->[!VIDEO](https://video.tv.adobe.com/v/332123/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410870/?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 

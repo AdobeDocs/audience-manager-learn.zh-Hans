@@ -22,4 +22,4 @@ ht-degree: 0%
 
 此视频首先介绍创建基于人员的目标的先决条件的相关信息，然后还会向您说明如何配置集成帐户（指向合作伙伴的链接，如[!DNL Facebook]）。 然后，它将引导您了解目标本身的产品内设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32073/?quality=12&captions=chi_hans)

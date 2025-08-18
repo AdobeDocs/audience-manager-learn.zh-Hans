@@ -22,4 +22,4 @@ ht-degree: 0%
 
 如果您希望将第一方CRM数据引入Audience Manager以更好地定位您的客户，则需要首先创建跨设备数据源来存储CRM ID和数据。 这会向您说明如何这样做以及在Experience Platform标记中设置`setCustomerIDs()`方法以供登录。
 
->[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346209/?quality=12&learn=on&captions=chi_hans)

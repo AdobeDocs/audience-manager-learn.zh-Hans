@@ -22,7 +22,7 @@ ht-degree: 0%
 
 本视频向您介绍创建[!UICONTROL People-Based Destination]到[!DNL LinkedIn]的概念和步骤。 它以有关基于人员的目标的其他视频和文档为基础。
 
->[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38433/?quality=12&captions=chi_hans)
 
 有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=zh-Hans)。
 

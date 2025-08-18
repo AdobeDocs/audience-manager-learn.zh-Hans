@@ -23,6 +23,6 @@ ht-degree: 0%
 
 了解跨渠道个性化面临的主要挑战，以及Adobe Audience Manager如何推动客户历程。 此外，还要了解哪些数据类型可在Audience Manager中载入，并确定与Audience Manager集成的广告技术生态系统合作伙伴。
 
->[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37122/?quality=12&captions=chi_hans)
 
 有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=zh-Hans)。

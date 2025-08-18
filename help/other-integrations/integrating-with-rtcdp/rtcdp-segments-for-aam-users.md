@@ -20,7 +20,7 @@ ht-degree: 1%
 
 当您从Audience Manager转移到Real-time Customer Data Platform时，了解概念差异会很有帮助。 本视频介绍Audience Manager与Real-time CDP之间在区段和区段创建方面的区别。
 
->[!VIDEO](https://video.tv.adobe.com/v/331901/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347028/?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 

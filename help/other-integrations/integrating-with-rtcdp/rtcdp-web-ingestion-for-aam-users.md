@@ -20,7 +20,7 @@ ht-degree: 1%
 
 此视频向Audience Manager用户展示有关将网站数据引入Real-time Customer Data Platform (Real-time CDP)的概念，并概括性地介绍Audience Manager Data Connector适合哪些方面以及数据如何直接从网站通过Web SDK移至Real-time CDP。
 
->[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346976/?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 

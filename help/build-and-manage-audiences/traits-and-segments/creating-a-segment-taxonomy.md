@@ -22,4 +22,4 @@ ht-degree: 0%
 
 在Audience Manager中创建区段时，将它们存储在基于文件夹的结构或“分类”中。 了解有关创建和管理区段分类的一些提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/37909/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326862/?quality=12&learn=on&captions=chi_hans)
