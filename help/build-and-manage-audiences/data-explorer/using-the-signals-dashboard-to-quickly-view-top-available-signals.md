@@ -22,7 +22,7 @@ ht-degree: 0%
 
 通过在[!UICONTROL Signals Dashboard]中的[!DNL Data Explorer]上使用内置和自定义表，您可以快速查看进入Audience Manager的最新数据，甚至还可以根据需要点进以创建特征。 欢迎使用新的更高效的工作流！
 
->[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327525/?captions=chi_hans&quality=12)
 
 当您点击进入[!UICONTROL Data Explorer]（又称[!UICONTROL Signals]应用程序）时，您将看到一个包含常用信号和新信号的默认仪表板。 除了这两个默认设置外，您还可以保存搜索并将它们添加到功能板，以便您能够直接在功能的前页上快速查看最重要的数据。
 

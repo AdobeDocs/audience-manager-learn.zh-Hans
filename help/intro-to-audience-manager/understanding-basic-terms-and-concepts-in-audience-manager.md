@@ -24,4 +24,4 @@ ht-degree: 85%
 
 在此视频中，我们将介绍一些基本术语和概念，以帮助您开始使用 Audience Manager，包括信号、特征、细分等。
 
->[!VIDEO](https://video.tv.adobe.com/v/33887/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37124/?captions=chi_hans&quality=12)

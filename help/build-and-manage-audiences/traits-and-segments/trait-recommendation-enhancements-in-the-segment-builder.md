@@ -21,6 +21,6 @@ ht-degree: 0%
 
 在本视频中，您将了解如何在[!UICONTROL Segments]中使用更新的特征推荐，即[!UICONTROL Audience Marketplace]推荐。 这些将为您提供额外的insight到第三方数据，以扩展区段的范围。
 
->[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32753/?captions=chi_hans&quality=12)
 
 有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=zh-Hans)。

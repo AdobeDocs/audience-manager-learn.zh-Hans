@@ -20,7 +20,7 @@ ht-degree: 1%
 
 当您从Audience Manager转移到Real-time Customer Data Platform时，了解概念差异会很有帮助。 此视频介绍Audience Manager中的特征以及Real-time CDP中的等效内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/331900/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347022/?captions=chi_hans&quality=12&learn=on)
 
 ## 其他资源
 

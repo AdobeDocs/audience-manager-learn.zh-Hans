@@ -23,4 +23,4 @@ ht-degree: 0%
 
 了解Adobe Audience Manager与[!DNL Adobe Advertising]之间的集成的工作原理。 此外，还可以获得有关匹配率和第三方Cookie同步的答案。
 
->[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35506/?captions=chi_hans&quality=12)

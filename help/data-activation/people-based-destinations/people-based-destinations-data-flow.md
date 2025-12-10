@@ -22,4 +22,4 @@ ht-degree: 0%
 
 此视频概述了基于人员的目标，并显示了该过程中的数据流。
 
->[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31961/?captions=chi_hans&quality=12)

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 在Audience Manager的日常工作中，您可能需要快速找出是否从特定键/值对创建了特征。 本视频向您说明如何查明[!UICONTROL Data Explorer]。
 
->[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330346/?captions=chi_hans&quality=12)
 
 为了确定信号是否已创建为特征，您不必再下载BAAAM文件以及[!UICONTROL Unused Signals]报表。 现在，您只需在AAM的[!DNL Data Explorer]（又称[!UICONTROL Signals]应用程序）中搜索该键/值对即可，并查找位于特征中的键/值对以及不位于同一列表中的键/值对。 真是省时啊！
 

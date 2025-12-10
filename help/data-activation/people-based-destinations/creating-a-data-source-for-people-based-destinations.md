@@ -22,4 +22,4 @@ ht-degree: 0%
 
 本视频向您介绍如何在Audience Manager中创建用于基于人员的目标的[!UICONTROL Data Source]。
 
->[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31956/?captions=chi_hans&quality=12)

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 在本视频中，了解如何以及为何从算法（相似人群拓展模型）中排除特定（或一组）特征。
 
->[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38125/?captions=chi_hans&quality=12)
 
 此功能的用例包括：
 

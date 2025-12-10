@@ -20,7 +20,7 @@ ht-degree: 1%
 
 此视频适用于要改用Real-time Customer Data Platform (Real-time CDP)的Audience Manager用户，其中讨论了如何在Platform中使用您在Audience Manager中用于构建特征的信号（键值对）。
 
->[!VIDEO](https://video.tv.adobe.com/v/332092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410876/?captions=chi_hans&quality=12&learn=on)
 
 ## 其他资源
 

@@ -28,7 +28,7 @@ ht-degree: 0%
 
 此外，为了帮助您研究和决定要使用哪个数据提供程序，[[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/)是一项很棒资源。
 
->[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30270/?captions=chi_hans&quality=12)
 
 ## 识别或创建理想的用户（转化）特征或区段 {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 此外，在使用Adobe Analytics事件创建特征时，需要牢记以下要点，以便您不会将过多的用户收集到特征中。 观看以下视频，了解重大展现。 ：)
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328026/?captions=chi_hans&quality=12)
 
 **注意：**&#x200B;在上面的视频中，我展示的示例假定您拥有Adobe Analytics。 显然，情况可能并非如此。 如果您使用的是Google Analytics (GA)，则我们有一个可用于将数据发送到AAM的模块（请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=zh-Hans)），如果您网站上的转化活动是通过GA发送到AAM，则您可以从中创建转化特征。 如果您有其他Analytics解决方案（或没有Analytics解决方案），则仍可以通过我们的DIL代码和`submit`函数等将数据发送到AAM。 （请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=zh-Hans)）。 然后，根据在网站上执行转化活动时发送的数据创建转化特征。
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 完成上述步骤后，我们现在可以创建算法（相似）模型。 在设置模型时，我们将使用转化特征作为基本特征（我们要复制的关键访客），并将启用的第三方数据流作为要提取的人员池。
 
->[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/30269/?captions=chi_hans&quality-12)
 
 ## 重要的最佳实践 {#an-important-best-practice}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 接下来，我们需要创建一个[!UICONTROL Algorithmic Trait]，以便使用该模型的结果。 如果不创建特征，模型将毫无用处。 因此，在模型运行后，请确保进入特征对话框并创建[!UICONTROL Algorithmic Trait]。 以下视频介绍了它并显示了几个提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30268/?captions=chi_hans&quality=12)
 
 ## 从模型数据创建一个区段并将其发送给DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 

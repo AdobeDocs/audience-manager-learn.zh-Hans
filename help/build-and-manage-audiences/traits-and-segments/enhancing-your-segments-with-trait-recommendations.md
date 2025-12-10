@@ -22,7 +22,7 @@ ht-degree: 0%
 
 使用[!UICONTROL Trait Recommendations]，当您在[!UICONTROL Segments]中构建或编辑区段时，您能够获得可包含的其他推荐特征（与区段规则中的特征类似）。
 
->[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40843/?captions=chi_hans&quality=12)
 
 [!UICONTROL Trait Recommendations]同时处理第一方和第三方数据，以便您可以包含其他推荐的[!UICONTROL Traits]并增加目标受众。
 

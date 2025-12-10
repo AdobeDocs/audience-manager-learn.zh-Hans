@@ -32,7 +32,7 @@ Adobe通过选择加入功能和Audience Manager插件为IAB透明度和同意�
 
 如果您使用的是Audience Manager，则启用适用于IAB TCF的Adobe Experience Platform Launch插件非常简单，因为这是一个简单的复选框，如下面的短视频所示：
 
->[!VIDEO](https://video.tv.adobe.com/v/26433/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38257/?captions=chi_hans&quality=12)
 
 或者，如果您没有使用Launch，则可以在实例化Experience Cloud访客时使用`isIabContext=true`启用它。 这会启动IAB TCF流程，即向同意收集添加另一个步骤，即使用IAB TCF查询IAB TC字符串并将其提供回选择加入，然后与Experience Cloud解决方案进行通信。
 
@@ -84,6 +84,6 @@ IAB TC字符串的另一个部分是数百家供应商的长列表，这样可�
 
 在下面的视频中，了解来自ECID和解决方案的Cookie和信标如何受IAB用户选择的影响。
 
->[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38240/?captions=chi_hans&quality=12)
 
 有关适用于IAB TCF 2.2的Audience Manager插件的更多详细信息（包括如何实施和测试、用例和工作流），请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=zh-Hans)。
