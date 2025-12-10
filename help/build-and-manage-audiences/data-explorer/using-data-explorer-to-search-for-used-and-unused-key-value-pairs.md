@@ -26,4 +26,4 @@ ht-degree: 0%
 
 为了确定信号是否已创建为特征，您不必再下载BAAAM文件以及[!UICONTROL Unused Signals]报表。 现在，您只需在AAM的[!DNL Data Explorer]（又称[!UICONTROL Signals]应用程序）中搜索该键/值对即可，并查找位于特征中的键/值对以及不位于同一列表中的键/值对。 真是省时啊！
 
-有关[!UICONTROL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)。
+有关[!UICONTROL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=zh-Hans)。

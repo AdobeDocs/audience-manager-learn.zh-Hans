@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-有关[!UICONTROL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+有关[!UICONTROL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experiencecloud.adobe.com/resources/help/zh_CN/aam/data-explorer.html)。

@@ -26,4 +26,4 @@ ht-degree: 0%
 
 当您点击进入[!UICONTROL Data Explorer]（又称[!UICONTROL Signals]应用程序）时，您将看到一个包含常用信号和新信号的默认仪表板。 除了这两个默认设置外，您还可以保存搜索并将它们添加到功能板，以便您能够直接在功能的前页上快速查看最重要的数据。
 
-有关[!UICONTROL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)。
+有关[!UICONTROL Data Explorer]的详细信息，请访问[Data Explorer — 概述、优点和用例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=zh-Hans)。
