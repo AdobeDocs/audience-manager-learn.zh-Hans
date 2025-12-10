@@ -7,10 +7,10 @@ activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
-role: Developer, Data Engineer, Architect
+role: Developer
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 1%
@@ -89,13 +89,13 @@ ht-degree: 1%
 
 ![错误图像](assets/image_4_.png)
 
-有关错误代码列表，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=zh-Hans#api-and-sdk-code)。
+有关错误代码列表，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code)。
 
 ## 载入全局设备ID {#onboarding-global-device-ids}
 
-除了实时提交全局设备ID之外，您还可以根据ID &quot;[!DNL onboard]&quot;（上传）数据。 此过程与根据客户ID（通常通过键/值对）载入数据时相同，但您只需使用适当的Data Source ID即可，以便将数据分配给全局设备ID。 有关载入流程的文档可在[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=zh-Hans#implementation-integration-guides)中找到。 请记住，根据您使用的平台，使用全局数据源ID。
+除了实时提交全局设备ID之外，您还可以根据ID &quot;[!DNL onboard]&quot;（上传）数据。 此过程与根据客户ID（通常通过键/值对）载入数据时相同，但您只需使用适当的Data Source ID即可，以便将数据分配给全局设备ID。 有关载入流程的文档可在[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides)中找到。 请记住，根据您使用的平台，使用全局数据源ID。
 
-如果通过载入流程提交的全局设备ID不正确，则错误将显示在[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=zh-Hans#reporting)中。
+如果通过载入流程提交的全局设备ID不正确，则错误将显示在[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting)中。
 
 以下是通过该报表出现的错误示例：
 

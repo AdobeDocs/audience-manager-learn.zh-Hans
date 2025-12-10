@@ -8,10 +8,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4adaade180545bcf5f911b7453a7e9939e2ed178
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Report-suite]级服务器端转发 {#report-suite-level-server-side-forwarding}
 
-从[!UICONTROL report suite]转发转移到[!UICONTROL tracking server]转发的最大优势之一是，您现在将能够使用“Audience Analytics”，即能够将Audience Manager [!UICONTROL segments]转发回Adobe Analytics以进行详细的区段分析。 如果您仍在进行[!UICONTROL tracking server]转发而非[!UICONTROL report suite]转发，则不支持此强大功能。 请参阅[文档](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=zh-Hans)中有关Audience Analytics的更多信息。
+从[!UICONTROL report suite]转发转移到[!UICONTROL tracking server]转发的最大优势之一是，您现在将能够使用“Audience Analytics”，即能够将Audience Manager [!UICONTROL segments]转发回Adobe Analytics以进行详细的区段分析。 如果您仍在进行[!UICONTROL tracking server]转发而非[!UICONTROL report suite]转发，则不支持此强大功能。 请参阅[文档](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)中有关Audience Analytics的更多信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

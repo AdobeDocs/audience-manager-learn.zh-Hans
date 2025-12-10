@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: c38ab8f8-ec0f-44ac-b72f-479356c9950e
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 在本视频中，您将了解如何创建第一方相似人群拓展模型，以便找到更多与您的转化者相似的人员。
 
->[!VIDEO](https://video.tv.adobe.com/v/328070/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
 这方面的用例包括：
 

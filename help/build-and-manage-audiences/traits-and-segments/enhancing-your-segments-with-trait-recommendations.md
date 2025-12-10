@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 26228.jpg
 kt: 2431
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 2d1b66fc-0091-44d1-970a-f30d6d5cca4c
-source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 使用[!UICONTROL Trait Recommendations]，当您在[!UICONTROL Segments]中构建或编辑区段时，您能够获得可包含的其他推荐特征（与区段规则中的特征类似）。
 
->[!VIDEO](https://video.tv.adobe.com/v/40843/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
 [!UICONTROL Trait Recommendations]同时处理第一方和第三方数据，以便您可以包含其他推荐的[!UICONTROL Traits]并增加目标受众。
 
-有关此功能的详细信息，请访问[文档](https://experiencecloud.adobe.com/resources/help/zh_CN/aam/trait-recommendations.html)。
+有关此功能的详细信息，请访问[文档](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html)。

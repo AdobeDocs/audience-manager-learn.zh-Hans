@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 28974.jpg
 kt: 3708
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: edabbd66-1ee0-4337-bf27-7f240e8156a8
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 了解[!UICONTROL Profile Merge Rules]是什么、其工作方式及其对营销人员的价值。
 
->[!VIDEO](https://video.tv.adobe.com/v/31955/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

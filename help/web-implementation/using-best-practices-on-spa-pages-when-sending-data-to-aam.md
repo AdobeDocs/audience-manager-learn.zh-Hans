@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: Developer, Data Engineer
+role: Developer
 level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
-source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 0%
@@ -56,7 +56,7 @@ tags中的aam的![spa](assets/spa_for_aam_in_launch.png)
 * 在调用Platform标记之前，数据层位于页面顶部
 * 模拟SPA链接中的JavaScript更改[!UICONTROL Data Layer]，然后调用Platform标记（`_satellite.track()`调用）。 如果您使用JavaScript自定义事件而不是此[!UICONTROL Direct Call Rule]，则课程相同。 首先更改[!DNL data layer]，然后调用Platform标记。
 
->[!VIDEO](https://video.tv.adobe.com/v/38106/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## 其他资源 {#additional-resources}
 

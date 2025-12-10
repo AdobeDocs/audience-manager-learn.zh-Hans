@@ -7,10 +7,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: d3f4a12d-acc5-47b7-a38a-a6a14152bf3a
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 如果您无法通过这些快速引用快速找到它，则视频是简短的时间承诺。 ：)
 
->[!VIDEO](https://video.tv.adobe.com/v/40891/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
 
 >[!IMPORTANT]
 >

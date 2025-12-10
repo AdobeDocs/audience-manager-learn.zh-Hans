@@ -9,10 +9,10 @@ team: Technical Marketing
 thumbnail: 25894.jpg
 kt: 3072
 topic: Integrations
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 92041f1c-6a05-4705-a56d-df5e9dbddac0
-source-git-commit: d0812450ddc8c7398e7bb58b40dbb1c3818d7215
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 了解Adobe Audience Manager与[!DNL Adobe Advertising]之间的集成的工作原理。 此外，还可以获得有关匹配率和第三方Cookie同步的答案。
 
->[!VIDEO](https://video.tv.adobe.com/v/35506/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)
