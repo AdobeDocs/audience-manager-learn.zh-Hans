@@ -28,4 +28,4 @@ Varun Kalra是多解决方案顾问，在悉尼的Adobe解决方案合作伙伴 
 * 更深入地研究定位用例
 * 各种PMR设置的用例
 
-[在Experience League社区中阅读Varun的提示。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[在Experience League社区中阅读Varun的提示。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248?profile.language=zh-Hans)
