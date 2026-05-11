@@ -3,11 +3,13 @@ user-guide-title: Adobe Audience Manager 教程
 user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Audience Manager 教程
 solution: Audience Manager
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
 type: Tutorial
-source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
+source-git-commit: 73d16f8b9fda736f962ca4317d04aa93dcbe216c
 workflow-type: tm+mt
-source-wordcount: '895'
-ht-degree: 3%
+source-wordcount: 1089
+ht-degree: 2%
 
 ---
 
@@ -27,9 +29,9 @@ ht-degree: 3%
 + 行业新闻和趋势 {#industry}
    + [数据管理的未来和不断变化的环境](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=zh-Hans)
    + [负责任的客户数据管理的10个注意事项](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=zh-Hans)
-   + [两种见解的故事 — 品牌与消费者](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html?lang=zh-Hans)
+   + [一个故事，两种看法 — 品牌与消费者](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html?lang=zh-Hans)
    + [发展您的卓越受众中心](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html?lang=zh-Hans)
-   + [使用客户配置文件构建更好的体验](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=zh-Hans)
+   + [利用客户配置文件构建更好的体验](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=zh-Hans)
 + 设置和管理 {#setup-and-admin}
    + 数据源 {#data-sources}
       + [为Analytics数据创建数据源](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -150,7 +152,7 @@ ht-degree: 3%
    + [使用Audience Optimization报表了解媒体性能](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + 其他集成 {#other-integrations}
    + 与Real-time Customer Data Platform集成 {#integrating-with-rtcdp}
-      + [使用Adobe Audience Manager Data Connector摄取数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=zh-Hans#sources)
+      + [使用Adobe Audience Manager Data Connector引入数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=zh-Hans#sources)
       + [了解Real-time CDP中的第一方数据引入](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [了解Real-time CDP中的Web数据引入](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [了解Real-time CDP中的架构和XDM](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
