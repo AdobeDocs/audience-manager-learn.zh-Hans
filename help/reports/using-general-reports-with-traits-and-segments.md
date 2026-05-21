@@ -31,4 +31,4 @@ ht-degree: 0%
 
 在此视频中，了解如何使用Audience Manager中的常规报表获取特征和区段的数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340801/?captions=chi_hans&quality=12&learn=on)

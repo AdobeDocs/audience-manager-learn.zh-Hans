@@ -33,7 +33,7 @@ ht-degree: 0%
 
 在将您的第一方引入Audience Manager以更好地了解和锁定客户时，对数据有特定的格式要求。 本视频介绍了一些主要选项，并向您说明从何处获取更多信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346202/?captions=chi_hans&quality=12&learn=on)
 
 有关文件命名和导入的视频，请单击[此处](steps-for-ingesting-file-based-data.md)。
 

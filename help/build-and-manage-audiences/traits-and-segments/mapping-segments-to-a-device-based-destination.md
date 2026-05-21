@@ -31,4 +31,4 @@ ht-degree: 0%
 
 要将受众区段发送到DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。 此视频介绍如何将区段映射到基于设备的目标，也称为&#x200B;_服务器到服务器_&#x200B;目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41308/?captions=chi_hans&quality=12&learn=on)

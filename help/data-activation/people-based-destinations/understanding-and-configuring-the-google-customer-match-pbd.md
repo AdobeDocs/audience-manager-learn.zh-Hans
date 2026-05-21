@@ -31,4 +31,4 @@ ht-degree: 0%
 
 此视频将指导您逐步了解Google客户匹配基于人员的目标的详细信息和用例，包括如何逐步创建区段并将其映射到目标。 此外，还将显示受众在Google广告控制台中的登录情况。
 
->[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326459/?captions=chi_hans&quality=12&learn=on)

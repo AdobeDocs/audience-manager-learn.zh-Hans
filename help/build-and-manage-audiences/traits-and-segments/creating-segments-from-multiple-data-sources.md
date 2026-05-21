@@ -29,4 +29,4 @@ ht-degree: 0%
 
 在Audience Manager中创建区段时，您可以添加来自各种数据源的特征。 本视频说明如何这样做并讨论需要考虑的其他设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/37713/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327042/?captions=chi_hans&quality=12&learn=on)

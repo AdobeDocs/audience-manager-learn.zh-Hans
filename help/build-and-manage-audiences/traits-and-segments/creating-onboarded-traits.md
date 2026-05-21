@@ -29,4 +29,4 @@ ht-degree: 0%
 
 了解在Audience Manager中创建载入特征的提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328516/?captions=chi_hans&quality=12&learn=on)

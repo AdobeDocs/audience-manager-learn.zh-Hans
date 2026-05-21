@@ -31,4 +31,4 @@ ht-degree: 0%
 
 此视频将指导您完成定义区段，然后按您需要创建这些区段的特征/信号划分这些区段的过程。
 
->[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326720/?captions=chi_hans&quality=12&learn=on)

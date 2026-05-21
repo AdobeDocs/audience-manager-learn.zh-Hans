@@ -32,6 +32,6 @@ ht-degree: 0%
 
 通过重叠报表，可查看特征和区段受众如何相互重叠（同一访客在多个特征或区段中），这样即可知道在哪里可根据数据采取行动以提高转化率或注重扩大影响范围。
 
->[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345080/?captions=chi_hans&quality=12&learn=on)
 
 有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html?lang=zh-Hans#reporting)。

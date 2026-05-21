@@ -29,6 +29,6 @@ ht-degree: 0%
 
 在本视频中，我们将介绍Audience Manager界面中的[!UICONTROL Predictive Audiences]配置。 我们还将看到显示模型结果的报表。
 
->[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36912/?captions=chi_hans&quality=12)
 
 有关详细信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=zh-Hans)。

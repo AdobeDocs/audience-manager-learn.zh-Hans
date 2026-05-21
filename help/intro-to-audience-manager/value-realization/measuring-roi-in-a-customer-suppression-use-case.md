@@ -29,4 +29,4 @@ ht-degree: 0%
 
 省下了一分钱，就等于赚了一分钱，对吧？ 了解如何使用几个公式来确定怎样通过抑制向现有客户发送广告来节省促销活动成本。
 
->[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41301/?captions=chi_hans&quality=12&learn=on)
