@@ -11,12 +11,20 @@ role: Developer
 level: Intermediate
 exl-id: 8c1e6ed5-0f21-427b-a681-0ecb020a0e60
 TQID: https://experienceleague.adobe.com/uM1GY5cQLRo0qsxnsfrbAuEB-1EJhDyCMyvbmCSbBbQ
-product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
-feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
-subfeature_v2: id: d7e573ad-4eda-46ec-90c4-239e75362af9
-role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2:
+  - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
 source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
 source-wordcount: 1196
@@ -91,7 +99,7 @@ Audience Manager的[!DNL Data Integration Library] (DIL)代码允许您在网站
 非Adobe标签管理器也是如此。 无论该标签管理解决方案中位于何处，只要有旧版本，请按照以下步骤所述将其替换为新的代码。
 
 1. 将您的DIL库更新到最新版本（8.0或更高版本） — 您需要从Adobe Consulting或Adobe客户关怀部门获取最新的DIL代码，因为它当前在公共位置不可用。 然后，只需将旧的DIL库代码替换为新的DIL库代码并转到下一步（不要现在停止，否则您将遇到问题，哈）。
-1. 安装[!DNL ECID Service]或将现有版本更新为3.3.0或更高版本。 您可以从我们的GitHub页面](https://github.com/Adobe-Marketing-Cloud/id-service/releases)下载最新的Experience Cloud ID服务版本[。 如果您需要此方面的帮助，请参阅[文档](https://experienceleague.adobe.com/docs/id-service/using/home.html)或与Adobe顾问交谈。
+1. 安装[!DNL ECID Service]或将现有版本更新为3.3.0或更高版本。 您可以从我们的GitHub页面[&#128279;](https://github.com/Adobe-Marketing-Cloud/id-service/releases)下载最新的Experience Cloud ID服务版本。 如果您需要此方面的帮助，请参阅[文档](https://experienceleague.adobe.com/docs/id-service/using/home.html)或与Adobe顾问交谈。
 
 1. 确认您的DIL自定义代码中的任何已弃用方法或元素已移至ECID方法：
 
