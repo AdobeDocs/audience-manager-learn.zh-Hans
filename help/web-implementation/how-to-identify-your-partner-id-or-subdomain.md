@@ -10,9 +10,22 @@ kt: 2359
 role: Developer
 level: Intermediate
 exl-id: d3f4a12d-acc5-47b7-a38a-a6a14152bf3a
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/ZObq0VjU8IEiaQSL4emTTRXdTgBvjiDfzztHFc7rO-g
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2:
+  - id: f0bb1502-9f96-4d5e-a596-06876fe34ea0
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: 316
 ht-degree: 0%
 
 ---
@@ -25,11 +38,11 @@ ht-degree: 0%
 
 如果您只想跳进来查找它而不观看此短视频，则可以在UI中的两个位置找到您的`Partner Subdomain`：
 
-1. 如果您已创建[!UICONTROL rule-based]特征，请单击&#x200B;**[!UICONTROL Get Trait URL]**
+1. 如果您已创建[!UICONTROL rule-based]特征，请单击 **[!UICONTROL Get Trait URL]**
    [!UICONTROL Get Trait URL]在该文件夹的特征列表中位于特征旁边，该URL将包含您在URL中的子域。
 1. 如果您进入&#x200B;**[!UICONTROL Tools]** > **[!UICONTROL Tags]**&#x200B;界面并单击容器的&#x200B;**[!UICONTROL Get code]**，则子域将位于Akamai行的末尾
 
-如果您无法通过这些快速引用快速找到它，则视频是简短的时间承诺。 ：)
+如果您无法通过这些快速引用快速找到它，则视频是简短的时间承诺。 :)
 
 >[!VIDEO](https://video.tv.adobe.com/v/40891/?captions=chi_hans&quality=12)
 

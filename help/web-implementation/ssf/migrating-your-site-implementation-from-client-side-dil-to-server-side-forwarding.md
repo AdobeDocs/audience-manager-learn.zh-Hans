@@ -11,9 +11,27 @@ kt: 1778
 role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2:
+  - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '2333'
+source-wordcount: 2419
 ht-degree: 0%
 
 ---
@@ -61,8 +79,8 @@ ht-degree: 0%
 当您从客户端转发转移到服务器端转发时，您面临的任务之一是将代码更改为新的服务器端转发代码。 可使用以下任一选项完成此操作：
 
 * Adobe Experience Platform标记 — Adobe为Web资产推荐的实施选项。 您会看到这是一项轻松的任务，因为Platform标记已为您完成了所有艰难的工作。
-* 在页面上 — 如果您尚未使用Adobe Launch，则还可以将新的SSF代码直接放置到`doPlugins`文件内的`appMeasurement.js`函数中
-* 其他标记管理器 — 这些代码的处理方式与上一步（在页面上）选项相同，因为无论其他标记管理器在何处存储`doPlugins`代码，您仍会将SSF代码放在[!DNL AppMeasurement]中
+* 在页面上 — 如果您尚未使用Adobe Launch，则还可以将新的SSF代码直接放置到`appMeasurement.js`文件内的`doPlugins`函数中
+* 其他标记管理器 — 这些代码的处理方式与上一步（在页面上）选项相同，因为无论其他标记管理器在何处存储[!DNL AppMeasurement]代码，您仍会将SSF代码放在`doPlugins`中
 
 我们将在&#x200B;_更新代码_&#x200B;部分中查看以下各个部分。
 
@@ -84,7 +102,7 @@ ht-degree: 0%
 
 在您准备好从客户端DIL代码迁移到服务器端转发时，第一步是识别您使用DIL代码执行的所有操作，包括自定义设置以及发送到AAM的数据。 需要注意和考虑的事项包括：
 
-* 使用[!DNL Analytics] DIL模块的普通`siteCatalyst.init`变量 — 您无需担心此变量，因为其作业只是发送普通[!DNL Analytics]变量，只需启用服务器端转发即可完成此操作。
+* 使用`siteCatalyst.init` DIL模块的普通[!DNL Analytics]变量 — 您无需担心此变量，因为其作业只是发送普通[!DNL Analytics]变量，只需启用服务器端转发即可完成此操作。
 * 合作伙伴子域 — 在`DIL.create`函数中，记录`partner`参数。 这称为您的“合作伙伴子域”，有时也称为“合作伙伴ID”，在放置新的服务器端转发代码时需要此ID。
 * [!DNL Visitor Service Namespace] — 也称为您的“[!DNL Org ID]”或“[!DNL IMS Org ID]”，当您设置新的服务器端转发代码时，也会需要此代码。 记下它。
 * containerNSID、uuidCookie和其他高级选项 — 请记下您正在使用的任何其他高级选项，以便您也可以在服务器端转发代码中设置它们。
@@ -138,7 +156,7 @@ ht-degree: 0%
 
 #### 如果您尚未实施ECID {#if-you-do-not-have-ecid-yet-implemented}
 
-1. 为要启用服务器端转发的每个[!DNL Analytics]在[!UICONTROL report suite]中翻转开关。
+1. 为要启用服务器端转发的每个[!UICONTROL report suite]在[!DNL Analytics]中翻转开关。
 
    1. 由于您没有ECID，转发尚未开始。
 

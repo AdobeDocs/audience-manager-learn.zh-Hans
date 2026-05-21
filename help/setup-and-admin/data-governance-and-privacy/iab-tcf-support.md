@@ -7,9 +7,21 @@ kt: 5027
 role: Developer
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '1059'
+source-wordcount: 1148
 ht-degree: 0%
 
 ---
@@ -26,7 +38,7 @@ Adobe通过选择加入功能和Audience Manager插件为IAB透明度和同意�
 
 现在，您至少已经基本了解了选择加入服务的工作方式，Audience Manager可以为其添加支持[!DNL IAB Transparency and Consent Framework (TCF)]的图层，该支持是通过选择加入对象中的插件完成的。
 
-适用于IAB TCF的Audience Manager插件扩展了选择加入的功能，使AAM客户能够根据IAB TCF评估、尊重用户隐私选择，并将其转发给下游合作伙伴。 它提供了一种标准，数据控制方(即您作为Adobe客户)和供应商（DMP、DSP、SSP、广告服务器等）可以使用此标准来了解不同同意情形下的同意。
+适用于IAB TCF的Audience Manager插件扩展了选择加入的功能，使AAM客户能够根据IAB TCF评估、尊重用户隐私选择，并将其转发给下游合作伙伴。 它为数据控制方（即您作为Adobe客户）和供应商（DMP、DSP、SSP、广告服务器等）提供了一个标准 可以使用来了解不同同意情形下的同意。
 
 ## 启用IAB TCF {#enabling-iab-tcf}
 
@@ -67,7 +79,7 @@ IAB TC字符串的另一个部分是数百家供应商的长列表，这样可�
 
 使用IAB TCF的好处之一是，与列出Adobe解决方案相比，上面列出的标准目的可能使最终用户更了解他们批准的内容。 最终用户可能不知道“批准”Audience Manager或[!DNL Target]意味着什么，但“在设备上存储和/或访问信息”或“开发和改进产品”对他们来说可能更容易理解和同意。
 
-为了批准Audience Manager(即为了针对选择加入以赋予AAM“是”投票权的IAB目的进行翻译，必须获得最终用户的同意（如上所列，目的1和10）。 如果任意一项未获得批准，或者供应商未获得批准，AAM将不会执行像素触发或设置Cookie。 此外，您还应该知道，许多客户只是选择为最终用户提供“要么全部，要么一无所有”的UI，这当然会允许或禁止使用Audience Manager(及其他Experience Cloud解决方案)。
+为了批准Audience Manager(即为了针对选择加入以赋予AAM“是”投票权的IAB目的进行翻译，必须获得最终用户的同意（如上所列，目的1和10）。 如果任意一项未获得批准，或者供应商未获得批准，AAM将不会执行像素触发或设置Cookie。 此外，您还应该知道，许多客户只是选择为最终用户提供“要么全部，要么一无所有”的UI，这当然会允许或禁止使用Audience Manager（及其他Experience Cloud解决方案）。
 
 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=zh-Hans)中包含一些关于Audience Manager Plug-In for IAB TCF流程如何适用于“发布者”和“广告商”用例的重要信息。
 

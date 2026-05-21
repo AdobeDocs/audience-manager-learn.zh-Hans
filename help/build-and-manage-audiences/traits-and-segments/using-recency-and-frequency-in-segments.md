@@ -11,9 +11,16 @@ kt: 5866
 role: User
 level: Beginner
 exl-id: eba827a3-38c9-4136-bc73-3783f4be8c1c
-source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
+TQID: https://experienceleague.adobe.com/UqD-ApjtzXBWaE40bliI-fSaOuD5Z9sqcmSIMkudAnA
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: 86
 ht-degree: 0%
 
 ---
@@ -22,4 +29,4 @@ ht-degree: 0%
 
 使用[!UICONTROL Recency]和[!UICONTROL Frequency]为区段参数指定访客在特定时间段内必须符合某个特征的次数。 非常适合内容关联和频率封顶用例以及其他用例。
 
->[!VIDEO](https://video.tv.adobe.com/v/327047/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/327047/?captions=chi_hans&quality=12&learn=on)

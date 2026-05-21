@@ -11,9 +11,18 @@ kt: 5805
 role: User
 level: Beginner
 exl-id: f732377e-64cf-4d3f-8755-51925ea60924
-source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
+TQID: https://experienceleague.adobe.com/jC-5yr1gkzheczmip-wk2ypVVw4eN6AfCow2rGLhsAI
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: c814092e-2730-45e8-a12d-e084529f52cb
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: 98
 ht-degree: 0%
 
 ---
@@ -22,4 +31,4 @@ ht-degree: 0%
 
 要将受众区段发送到DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。 此视频介绍如何将区段映射到基于设备的目标，也称为&#x200B;_服务器到服务器_&#x200B;目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/41308/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/41308/?captions=chi_hans&quality=12&learn=on)
