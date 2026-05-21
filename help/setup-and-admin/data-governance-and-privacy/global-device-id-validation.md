@@ -10,9 +10,15 @@ kt: 2977
 role: Developer
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/SMG7-LEhxtM1qAis17upYFx-mNUYITf5B-zCYIkHYYs
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baaid: baaa0dd2-d27e-4921-aae3-7888623a5fa5
+subfeature_v2: id: d8f681b8-67cc-42dc-85c5-a0977528a942id: e8a4c7eb-7254-4984-ac46-e651a57c7e39
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: 788
 ht-degree: 1%
 
 ---
@@ -75,10 +81,10 @@ ht-degree: 1%
 在应用程序中设置广告商ID实际上是一个两步过程，首先检索广告商ID，然后将其发送到Experience Cloud。 执行上述步骤的链接如下所示。
 
 1. 检索ID
-   1. 有关[!DNL Apple]的[!DNL advertising ID]信息可在[此处](https://developer.apple.com/documentation/adsupport/asidentifiermanager)找到。
-   1. 有关为[!DNL advertiser ID]开发人员设置[!DNL Android]的一些信息可以在[此处](http://android.cn-mirrors.com/google/play-services/id.html)找到。
+   1. 有关[!DNL advertising ID]的[!DNL Apple]信息可在[此处](https://developer.apple.com/documentation/adsupport/asidentifiermanager)找到。
+   1. 有关为[!DNL Android]开发人员设置[!DNL advertiser ID]的一些信息可以在[此处](http://android.cn-mirrors.com/google/play-services/id.html)找到。
 1. 在SDK中使用[!DNL setAdvertisingIdentifier]方法将其发送到Experience Cloud
-   1. 有关使用`setAdvertisingIdentifier`的信息同时包含在[和](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)的[!DNL iOS]文档[!DNL Android]中。
+   1. 有关使用`setAdvertisingIdentifier`的信息同时包含在[!DNL iOS]和[!DNL Android]的[文档](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)中。
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
@@ -89,13 +95,13 @@ ht-degree: 1%
 
 ![错误图像](assets/image_4_.png)
 
-有关错误代码列表，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=zh-Hans#api-and-sdk-code)。
+有关错误代码列表，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code)。
 
 ## 载入全局设备ID {#onboarding-global-device-ids}
 
-除了实时提交全局设备ID之外，您还可以根据ID &quot;[!DNL onboard]&quot;（上传）数据。 此过程与根据客户ID（通常通过键/值对）载入数据时相同，但您只需使用适当的Data Source ID即可，以便将数据分配给全局设备ID。 有关载入流程的文档可在[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=zh-Hans#implementation-integration-guides)中找到。 请记住，根据您使用的平台，使用全局数据源ID。
+除了实时提交全局设备ID之外，您还可以根据ID &quot;[!DNL onboard]&quot;（上传）数据。 此过程与根据客户ID（通常通过键/值对）载入数据时相同，但您只需使用适当的Data Source ID即可，以便将数据分配给全局设备ID。 有关载入流程的文档可在[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides)中找到。 请记住，根据您使用的平台，使用全局数据源ID。
 
-如果通过载入流程提交的全局设备ID不正确，则错误将显示在[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=zh-Hans#reporting)中。
+如果通过载入流程提交的全局设备ID不正确，则错误将显示在[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting)中。
 
 以下是通过该报表出现的错误示例：
 

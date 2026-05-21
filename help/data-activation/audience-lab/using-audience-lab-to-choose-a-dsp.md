@@ -8,9 +8,14 @@ kt: 1552
 role: User, Admin, Leader
 level: Intermediate
 exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+TQID: https://experienceleague.adobe.com/yfYCzDwakWNv6B2hMvCZ2yguH96vi-Nn3kQ94OrL1j0
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: c814092e-2730-45e8-a12d-e084529f52cb
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: 247
 ht-degree: 0%
 
 ---
@@ -19,7 +24,7 @@ ht-degree: 0%
 
 在本视频中，我们将介绍如何创建[!UICONTROL Audience Lab]测试，以使您可以A/B测试DSP或其他AAM目标，以了解哪些测试可带来最佳的广告支出回报。
 
->[!VIDEO](https://video.tv.adobe.com/v/328025/?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
 
 创建[!UICONTROL Audience Lab]测试非常简单，只需几分钟即可完成，如上面的视频所示。 在界面中逐步介绍各个步骤时，您将设置以下各项：
 
@@ -32,4 +37,4 @@ ht-degree: 0%
 1. 检查测试摘要并激活测试
 1. 测试完成后，访问[!UICONTROL Audience Lab]主主屏幕上的结果
 
-有关详细信息，请参阅[功能文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html?lang=zh-Hans)。
+有关详细信息，请参阅[功能文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html)。

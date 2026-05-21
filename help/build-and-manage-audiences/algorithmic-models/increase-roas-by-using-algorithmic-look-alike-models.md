@@ -11,9 +11,15 @@ kt: 1849
 role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/rQ-djjfEOZDjR3IdvvJnO1Hb2tu6IUhz0uFhp-xuZq8
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: c814092e-2730-45e8-a12d-e084529f52cbid: d8f86c1e-15ad-457f-9d6f-5e756573fad4
+subfeature_v2: id: d921db59-bd4a-43dc-97e6-4ff4611f1ae8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: 943
 ht-degree: 0%
 
 ---
@@ -28,7 +34,7 @@ ht-degree: 0%
 
 此外，为了帮助您研究和决定要使用哪个数据提供程序，[[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/)是一项很棒资源。
 
->[!VIDEO](https://video.tv.adobe.com/v/30270/?captions=chi_hans&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
 
 ## 识别或创建理想的用户（转化）特征或区段 {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
@@ -36,17 +42,17 @@ ht-degree: 0%
 
 在下面的视频中，我将展示如何创建转化特征，在您继续完成本教程并创建相似人群拓展模型时，您将需要了解该特征。
 
-此外，在使用Adobe Analytics事件创建特征时，需要牢记以下要点，以便您不会将过多的用户收集到特征中。 观看以下视频，了解重大展现。 ：)
+此外，在使用Adobe Analytics事件创建特征时，需要牢记以下要点，以便您不会将过多的用户收集到特征中。 观看以下视频，了解重大展现。 :)
 
->[!VIDEO](https://video.tv.adobe.com/v/328026/?captions=chi_hans&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：**&#x200B;在上面的视频中，我展示的示例假定您拥有Adobe Analytics。 显然，情况可能并非如此。 如果您使用的是Google Analytics (GA)，则我们有一个可用于将数据发送到AAM的模块（请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=zh-Hans)），如果您网站上的转化活动是通过GA发送到AAM，则您可以从中创建转化特征。 如果您有其他Analytics解决方案（或没有Analytics解决方案），则仍可以通过我们的DIL代码和`submit`函数等将数据发送到AAM。 （请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=zh-Hans)）。 然后，根据在网站上执行转化活动时发送的数据创建转化特征。
+**注意：**&#x200B;在上面的视频中，我展示的示例假定您拥有Adobe Analytics。 显然，情况可能并非如此。 如果您使用的是Google Analytics (GA)，则我们有一个可用于将数据发送到AAM的模块（请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)），如果您网站上的转化活动是通过GA发送到AAM，则您可以从中创建转化特征。 如果您有其他分析解决方案（或没有分析解决方案），您仍然可以通过我们的DIL代码和`submit`函数等将数据发送到AAM。（请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)）。 然后，根据在网站上执行转化活动时发送的数据创建转化特征。
 
 ## 根据第二方或第三方数据创建相似人群拓展模型 {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 
 完成上述步骤后，我们现在可以创建算法（相似）模型。 在设置模型时，我们将使用转化特征作为基本特征（我们要复制的关键访客），并将启用的第三方数据流作为要提取的人员池。
 
->[!VIDEO](https://video.tv.adobe.com/v/30269/?captions=chi_hans&quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
 
 ## 重要的最佳实践 {#an-important-best-practice}
 
@@ -56,7 +62,7 @@ ht-degree: 0%
 
 接下来，我们需要创建一个[!UICONTROL Algorithmic Trait]，以便使用该模型的结果。 如果不创建特征，模型将毫无用处。 因此，在模型运行后，请确保进入特征对话框并创建[!UICONTROL Algorithmic Trait]。 以下视频介绍了它并显示了几个提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/30268/?captions=chi_hans&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
 
 ## 从模型数据创建一个区段并将其发送给DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 

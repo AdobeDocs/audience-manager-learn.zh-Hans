@@ -9,9 +9,14 @@ doc-type: feature video
 thumbnail: 332203.jpg
 kt: 7352
 exl-id: 43e9c54c-24f5-430e-a633-6e2878e2a7ba
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/RAneNFWSn-XlxGSEDvKev5tuGUW-ldIZayEYeTeKFvY
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: c814092e-2730-45e8-a12d-e084529f52cb
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: 124
 ht-degree: 0%
 
 ---
@@ -20,4 +25,4 @@ ht-degree: 0%
 
 当您从Audience Manager转移到实时客户数据平台(Real-time CDP)时，必须了解目标，以便您知道如何将受众区段激活到目标合作伙伴。 此视频讨论了不同的目标类型以及它们在Real-time CDP中的位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410882/?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)
