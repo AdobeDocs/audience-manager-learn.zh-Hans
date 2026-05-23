@@ -35,4 +35,4 @@ Matt Vittorioso是Ally Financial数字营销团队的高级营销专家。 他�
 * 利用开箱即用的功能
 * 定期审查特征和区段
 
-[阅读Experience League社区中的Matt提示。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[阅读Experience League社区中的Matt提示。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729?profile.language=zh-Hans)
