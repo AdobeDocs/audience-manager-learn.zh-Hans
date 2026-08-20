@@ -1,46 +1,60 @@
 ---
 source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 22%
+source-wordcount: '300'
+ht-degree: 0%
 
 ---
 # 投稿
 
-感謝您選擇投稿！
+感谢您选择投稿！
 
-以下是投稿至本專案時應遵守的一組准則。
+以下是为该项目做贡献时应遵循的一套准则。
 
-## 行為準則
+## 行为准则
 
-此项目遵循 Adobe [行为准则](code-of-conduct.md)。如果参与，请遵守本准则。如發現不良行為，請向
-[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
+此项目遵守Adobe [行为准则](code-of-conduct.md)。 通过参与，
+您应遵守本准则。 请将不可接受的行为报告给
+[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com)。
 
-## 貢獻者指南檔案
+## 参与者指南文档
 
-請參閱 [投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans).
+请参阅[参与者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)。
 
-## 有疑問嗎？
+## 有疑问吗？
 
-請先提出問題。 本專案的現有提交者致力於專案方向上達成共識，並在問題討論串中發佈解決方案（如適用）。
+首先，提交问题。 该项目的现有提交者需要达到
+在问题线程中就项目方向和问题解决方案达成共识
+（在适当时）。
 
-## 貢獻者授權合約
+## 参与者许可协议
 
-本專案的所有協力廠商貢獻都必須隨附已簽署的貢獻者授權合約。 这将允许 Adobe 在项目中再次分发您的贡献。[簽署我們的CLA](http://opensource.adobe.com/cla.html). 您只需要提交AdobeCLA一次，所以如果您之前已送出CLA，即可立即開始投稿！
+所有参与到该项目的第三方稿件都必须附有已签署的投稿人
+许可协议。 这将允许Adobe重新分发您投稿的内容
+作为项目的一部分。 [签署我们的CLA](http://opensource.adobe.com/cla.html)。 您可以
+您只需提交一次Adobe CLA即可，因此，如果您以前已经提交过，
+一切准备就绪！
 
-## 程式碼檢閱
+## 代码审阅
 
-所有提交都应采用提取请求的形式，并且需要由项目提交者进行审核。请阅读 [GitHub 的提取请求文档](https://help.github.com/cn/articles/about-pull-requests/)，了解有关发送提取请求的更多信息。
+所有提交都应采用拉取请求的形式，并且需要审核
+由项目提交者创建。 阅读[GitHub的拉取请求文档](https://help.github.com/articles/about-pull-requests/)
+以了解有关发送拉取请求的更多信息。
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## 從貢獻者晉升提交者
+## 从参与者到提交者
 
-我們熱愛來自社群的貢獻！ 若您想更進一步參與，須先受邀加入專案，才能以認可者的身分在專案中擁有完整撰寫許可權和發言權。 現有的提交者會採用內部提名程式，在發出邀請之前必須達成懶惰共識（沈默表示同意）。 如果您認為自己符合資格且希望更深入地參與其中，請隨時與現有的提交者聯絡以進行相關對話。
+我们欢迎来自社区的投稿！ 如果您想在投稿人之外更进一步
+并成为具有完全写入权限且在项目中具有发言权的提交者，您必须
+受邀加入该项目。 现有提交者已委聘内部提名
+在邀请之前必须达成懒惰共识（沉默即表示同意）的进程
+已颁发。 如果你觉得自己有资格，希望更深入地参与进来，
+欢迎与现有提交者联系，就此展开讨论。
 
-## 安全性問題
+## 安全问题
 
-不應在此問題追蹤器上回報安全性問題。 而是 [向我們的安全性專家提出問題](https://helpx.adobe.com/cn/security/alertus.html)
+不应在此问题跟踪器上报告安全问题。 相反，[请向我们的安全专家提出问题](https://helpx.adobe.com/cn/security/alertus.html)
