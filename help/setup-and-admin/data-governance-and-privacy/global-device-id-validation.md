@@ -10,29 +10,44 @@ kt: 2977
 role: Developer
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-TQID: https://experienceleague.adobe.com/SMG7-LEhxtM1qAis17upYFx-mNUYITf5B-zCYIkHYYs
+TQID: 'https://experienceleague.adobe.com/SMG7-LEhxtM1qAis17upYFx-mNUYITf5B-zCYIkHYYs'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
   - id: baaa0dd2-d27e-4921-aae3-7888623a5fa5
+    internal-label: APIs and SDKs
+  - id: b89b323a-1e91-40b1-8d20-96b5b726d55a
+    internal-label: Audience management
 subfeature_v2:
   - id: d8f681b8-67cc-42dc-85c5-a0977528a942
+    internal-label: Data Collection Server
   - id: e8a4c7eb-7254-4984-ac46-e651a57c7e39
+    internal-label: SDKs
+  - id: a1d8adf7-4300-4ca2-870f-1612c6774544
+    internal-label: Data governance and privacy
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Privacy
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 788
+source-wordcount: '788'
 ht-degree: 1%
-
 ---
-
 # 全局设备ID验证 {#global-device-id-validation}
 
 设备Advertising标识符（即iDFA、GAID、Roku ID）具有格式标准，必须在数字广告生态系统中使用才能满足这些标准。 如今，客户和合作伙伴可以将ID以任何格式上传到我们的全球数据源，而无需通知ID的格式是否正确。 此功能将验证发送到全局数据源的设备ID，确保格式正确，并且在ID格式不正确时提供错误消息。 我们将在启动时支持[!DNL iDFA]、[!DNL Google Advertising]和[!DNL Roku IDs]的验证。
@@ -105,13 +120,13 @@ ht-degree: 1%
 
 ![错误图像](assets/image_4_.png)
 
-有关错误代码列表，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=zh-Hans#api-and-sdk-code)。
+有关错误代码列表，请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code)。
 
 ## 载入全局设备ID {#onboarding-global-device-ids}
 
-除了实时提交全局设备ID之外，您还可以根据ID &quot;[!DNL onboard]&quot;（上传）数据。 此过程与根据客户ID（通常通过键/值对）载入数据时相同，但您只需使用适当的Data Source ID即可，以便将数据分配给全局设备ID。 有关载入流程的文档可在[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=zh-Hans#implementation-integration-guides)中找到。 请记住，根据您使用的平台，使用全局数据源ID。
+除了实时提交全局设备ID之外，您还可以根据ID &quot;[!DNL onboard]&quot;（上传）数据。 此过程与根据客户ID（通常通过键/值对）载入数据时相同，但您只需使用适当的Data Source ID即可，以便将数据分配给全局设备ID。 有关载入流程的文档可在[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides)中找到。 请记住，根据您使用的平台，使用全局数据源ID。
 
-如果通过载入流程提交的全局设备ID不正确，则错误将显示在[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=zh-Hans#reporting)中。
+如果通过载入流程提交的全局设备ID不正确，则错误将显示在[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting)中。
 
 以下是通过该报表出现的错误示例：
 

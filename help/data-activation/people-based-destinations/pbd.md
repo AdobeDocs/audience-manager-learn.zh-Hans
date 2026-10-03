@@ -2,7 +2,7 @@
 title: People-based Destinations视频和教程
 description: 了解Audience Manager中基于人员的目标。 了解如何对在线和离线数据应用分段以根据哈希标识符（如电子邮件地址等）创建受众区段！
 feature: People-based Destinations
-topics: null
+topics:
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -10,22 +10,27 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-TQID: https://experienceleague.adobe.com/EyqsE9RBoHVvG5bqNsAG9-3O7X148VWUx7OwTx8h3hA
+TQID: 'https://experienceleague.adobe.com/EyqsE9RBoHVvG5bqNsAG9-3O7X148VWUx7OwTx8h3hA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
+    internal-label: Destinations
+subfeature_v2:
+  - id: d7221605-094b-45a5-891f-f37bd58c0055
+    internal-label: People based Destinations
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Beginner
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 0%
-
 ---
-
 # People-based Destinations视频和教程
 
 基于人员的目标允许您对在线和离线数据应用分段，以根据哈希标识符（如电子邮件地址）创建受众区段。 然后，您可以将这些区段发送到社交平台，例如[!DNL Facebook]或[!DNL LinkedIn]，您可以在其中定位受众。
@@ -42,4 +47,4 @@ ht-degree: 0%
 * [创建和配置基于人员的目标](create-and-configure-people-based-destinations.md)
 * [了解并配置LinkedIn基于人员的目标](understanding-and-configuring-the-linkedin-pbd.md)
 
-这些视频可以与[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=zh-Hans)结合使用。
+这些视频可以与[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)结合使用。

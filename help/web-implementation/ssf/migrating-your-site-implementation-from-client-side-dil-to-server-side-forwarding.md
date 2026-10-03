@@ -3,7 +3,7 @@ title: 将网站的Audience Manager实施从客户端DIL迁移到服务器端转
 description: 了解如何将网站的Audience Manager (AAM)实施从客户端DIL迁移到服务器端转发。 如果您同时具有AAM和Adobe Analytics，并且使用DIL (Data Integration Library)代码将页面中的点击发送到AAM，同时还会将页面中的点击发送到Adobe Analytics，则本教程将适用。
 product: audience manager
 feature: Adobe Analytics Integration
-topics: null
+topics:
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
@@ -11,34 +11,47 @@ kt: 1778
 role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
+TQID: 'https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
 subfeature_v2:
   - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+    internal-label: DIL implementation
+  - id: e5dfa5ae-9082-4711-a658-d981a49c8dea
+    internal-label: Analytics integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Personalization
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 2419
+source-wordcount: '2419'
 ht-degree: 0%
-
 ---
-
 # 将网站的Audience Manager实施从客户端DIL迁移到服务器端转发 {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
-如果您同时拥有Adobe Audience Manager (AAM)和Adobe Analytics，并且当前使用DIL ([!DNL Data Integration Library])代码将点击从页面发送到AAM，同时将点击从页面发送到Adobe Analytics，则本教程适用于您。 由于您拥有这两个解决方案，并且它们都是Adobe Experience Cloud的一部分，因此您有机会遵循启用服务器端转发的最佳实践，这种最佳实践使[!DNL Analytics]数据收集服务器能够实时将网站分析数据转发到Audience Manager，而不是让客户端代码从页面向AAM发送额外的点击。 本教程将指导您完成从旧版客户端DIL实施切换到新版服务器端转发方法的步骤。
+如果您同时拥有Adobe Audience Manager (AAM)和Adobe Analytics，并且当前使用DIL ([!DNL Data Integration Library])代码将点击从页面发送到AAM，同时将点击从页面发送到Adobe Analytics，则本教程适用于您。 由于您拥有这两个解决方案，并且它们都是Adobe Experience Cloud的一部分，因此您有机会遵循启用服务器端转发的最佳实践，这种方法使[!DNL Analytics]数据收集服务器能够实时将网站分析数据转发到Audience Manager，而不是让客户端代码从页面向AAM发送额外的点击。 本教程将指导您完成从旧版客户端DIL实施切换到新版服务器端转发方法的步骤。
 
 ## 客户端(DIL)与服务器端 {#client-side-dil-vs-server-side}
 
@@ -92,7 +105,7 @@ ht-degree: 0%
 
 迁移到服务器端转发的主要先决条件是实施Experience Cloud ID服务。 如果您使用的是Experience Platform Launch，则最轻松完成这项操作，在这种情况下，您只需安装ECID扩展并完成其余操作。
 
-如果您使用的是非Adobe TMS，或根本没有TMS，请实施ECID以在&#x200B;**任何其他Adobe解决方案之前运行**。 有关详细信息，请参阅[ECID文档](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hans)。 唯一的其他先决条件与代码版本有关，因此，由于您只需按以下步骤应用代码的最新版本，因此您不会有任何问题。
+如果您使用的是非Adobe TMS，或根本没有TMS，请实施ECID以在&#x200B;**任何其他Adobe解决方案之前运行**。 有关详细信息，请参阅[ECID文档](https://experienceleague.adobe.com/docs/id-service/using/home.html)。 唯一的其他先决条件与代码版本有关，因此，由于您只需按以下步骤应用代码的最新版本，因此您不会有任何问题。
 
 >[!NOTE]
 >
@@ -130,7 +143,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
 
-**注意：**&#x200B;如视频中所述，请记住，在Experience Cloud后端完全实施转发最多需要4个小时。
+**注意：**&#x200B;如视频中所述，请记住，在Experience Cloud后端上完全实施转发最多需要4个小时。
 
 ## 计时 {#timing}
 
@@ -220,4 +233,4 @@ ht-degree: 0%
 
 ![误报的成功](assets/falsesuccess.png)
 
-有关服务器端转发的详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=zh-Hans)。
+有关服务器端转发的详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html)。
