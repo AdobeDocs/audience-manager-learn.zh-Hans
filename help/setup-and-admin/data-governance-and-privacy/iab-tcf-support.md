@@ -7,30 +7,43 @@ kt: 5027
 role: Developer
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-TQID: https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA
+TQID: 'https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b89b323a-1e91-40b1-8d20-96b5b726d55a
+    internal-label: Audience management
+subfeature_v2:
+  - id: a1d8adf7-4300-4ca2-870f-1612c6774544
+    internal-label: Data governance and privacy
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Privacy
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 1148
+source-wordcount: '1148'
 ht-degree: 0%
-
 ---
-
 # Audience Manager中的IAB TCF 2.2支持 {#iab-tcf-support-in-audience-manager}
 
 Adobe通过选择加入功能和Audience Manager插件为IAB透明度和同意框架2.2 (TCF 2.2)支持提供了用于管理和传达用户所做的隐私选择的方法。 本文与文档结合使用，可帮助您了解IAB TCF的Audience Manager插件，以及它如何与Adobe的选择加入对象和同意管理提供程序(CMP)结合使用。 要了解有关IAB的更多信息，请参阅其网站： [https://www.iabeurope.eu/](https://www.iabeurope.eu/)。
 
-## 第一步：了解Experience Cloud ID选择加入功能 {#first-step-understand-ecid-s-opt-in}
+## 第一步：了解Experience Cloud ID选择加入 {#first-step-understand-ecid-s-opt-in}
 
 要了解如何使用IAB TCF，您必须首先了解[!DNL Opt-in]功能，该功能是Experience Cloud ID服务(ECID)库的一部分。 如果您不熟悉选择加入的工作方式，请先参阅[这篇有用的文章](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=zh-Hans)。 您还应查阅选择加入[文档](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=zh-Hans)。 浏览完这些资源后，请返回此页面并继续。
 
